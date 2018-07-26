@@ -14,6 +14,29 @@ Citizen.CreateThread(function()
   end
 end)
 
+clientVars = {
+	-- Inventory Variables
+	drinkItems = 0,
+	foodItems = 0,
+	bandages = 0,
+	ductTape = 0,
+	engineKit = 0,
+	dirtyWater = 0,
+	cleanWater = 0,
+	cookedMeat = 0,
+	rawMeat = 0,
+	zCredits = 0,
+
+	-- Crafting Variables
+	emptyBottles = 0,
+	woodMaterials = 0,
+	scrapMetal = 0,
+	scrapCloth = 0,
+	gunPowder = 0,
+	zBlood = 0,
+	woodLogs = 0,
+}
+
 --TriggerServerEvent('CreateData', clientVars)
 
 --[[Citizen.CreateThread(function()
@@ -39,7 +62,7 @@ AddEventHandler('playerSpawned', function()
 	dataloaded = true
 end)
 
-TriggerServerEvent('loadData', clientVars)
+TriggerServerEvent('loadData', serverVars)
 
 -- Check whitelist
 whitelisted = nil
@@ -57,6 +80,13 @@ print('checked')
 
 end)
 
+
+
+RegisterNetEvent("sendData")
+AddEventHandler("sendData", function(clientVars)
+end)
+
+
 -- Saves data to MySQL database every so often
 Citizen.CreateThread(function()
 	while true do
@@ -64,36 +94,6 @@ Citizen.CreateThread(function()
 		TriggerServerEvent('saveData', clientVars)
 	end
 end)
-
-
-
-RegisterNetEvent("sendData")
-AddEventHandler("sendData", function(newVars)
-end)
-
-clientVars = {
-	-- Inventory Variables
-	drinkItems = 0,
-	foodItems = 0,
-	bandages = newVars.bandages,
-	ductTape = 0,
-	engineKit = 0,
-	dirtyWater = 0,
-	cleanWater = newVars.cleanWater,
-	cookedMeat = 0,
-	rawMeat = 0,
-	zCredits = 0,
-
-	-- Crafting Variables
-	emptyBottles = 0,
-	woodMaterials = 0,
-	scrapMetal = 0,
-	scrapCloth = 0,
-	gunPowder = 0,
-	zBlood = 0,
-	woodLogs = 0,
-}
-
 
 Citizen.CreateThread(function()
 	while true do

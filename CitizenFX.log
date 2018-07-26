@@ -54924,3 +54924,406 @@
 [ 116084587] loading data
 [ 116084790] 0
 [ 116084790] data loaded
+[ 116138922] Stopping resource lootercamps
+[ 116138938] Started resource lootercamps
+[ 116144897] saving data
+[ 116144928] Error running system event handling function for resource Zombies: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: loot/server.lua:45: attempt to index a nil value (local 'variables')
+[ 116144928] stack traceback:
+[ 116144928] 	loot/server.lua:45: in upvalue 'handler'
+[ 116144928] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[ 116144928] stack traceback:
+[ 116144928] 	[C]: in function 'error'
+[ 116144928] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[ 116144928] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[ 116204833] saving data
+[ 116204848] Error running system event handling function for resource Zombies: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: loot/server.lua:45: attempt to index a nil value (local 'variables')
+[ 116204848] stack traceback:
+[ 116204848] 	loot/server.lua:45: in upvalue 'handler'
+[ 116204848] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[ 116204848] stack traceback:
+[ 116204848] 	[C]: in function 'error'
+[ 116204848] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[ 116204848] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[ 116235487] Stopping resource Zombies
+[ 116235502] Started resource Zombies
+[ 116236142] loading data
+[ 116236345] 0
+[ 116236345] data loaded
+[ 116255002] Sending heartbeat to live-internal.fivem.net:30110
+[ 116297279] saving data
+[ 116297294] Error running system event handling function for resource Zombies: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: loot/server.lua:45: attempt to index a nil value (local 'variables')
+[ 116297294] stack traceback:
+[ 116297294] 	loot/server.lua:45: in upvalue 'handler'
+[ 116297294] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[ 116297294] stack traceback:
+[ 116297294] 	[C]: in function 'error'
+[ 116297294] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[ 116297294] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[ 116357167] saving data
+[ 116357183] Error running system event handling function for resource Zombies: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: loot/server.lua:45: attempt to index a nil value (local 'variables')
+[ 116357183] stack traceback:
+[ 116357183] 	loot/server.lua:45: in upvalue 'handler'
+[ 116357183] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[ 116357183] stack traceback:
+[ 116357183] 	[C]: in function 'error'
+[ 116357183] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[ 116357183] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[ 116417087] saving data
+[ 116417103] Error running system event handling function for resource Zombies: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: loot/server.lua:45: attempt to index a nil value (local 'variables')
+[ 116417103] stack traceback:
+[ 116417103] 	loot/server.lua:45: in upvalue 'handler'
+[ 116417103] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[ 116417103] stack traceback:
+[ 116417103] 	[C]: in function 'error'
+[ 116417103] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[ 116417103] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[ 116432266] [SAVED] Cody196
+[ 116432282] [SAVED] All players
+[ 116435028] Sending heartbeat to live-internal.fivem.net:30110
+[ 116474995] Updating Weather to OVERCAST for all players.
+[ 116476961] saving data
+[ 116476976] Error running system event handling function for resource Zombies: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: loot/server.lua:45: attempt to index a nil value (local 'variables')
+[ 116476976] stack traceback:
+[ 116476976] 	loot/server.lua:45: in upvalue 'handler'
+[ 116476976] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[ 116476976] stack traceback:
+[ 116476976] 	[C]: in function 'error'
+[ 116476976] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[ 116476976] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[ 116536849] saving data
+[ 116536865] Error running system event handling function for resource Zombies: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: loot/server.lua:45: attempt to index a nil value (local 'variables')
+[ 116536865] stack traceback:
+[ 116536865] 	loot/server.lua:45: in upvalue 'handler'
+[ 116536865] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[ 116536865] stack traceback:
+[ 116536865] 	[C]: in function 'error'
+[ 116536865] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[ 116536865] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[ 116565164] Stopping resource Zombies
+[ 116565195] Started resource Zombies
+[ 116565819] loading data
+[ 116566022] 0
+[ 116566022] data loaded
+[ 116615053] Sending heartbeat to live-internal.fivem.net:30110
+[ 116626987] saving data
+[ 116627002] Error running system event handling function for resource Zombies: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: loot/server.lua:45: attempt to index a nil value (local 'variables')
+[ 116627002] stack traceback:
+[ 116627002] 	loot/server.lua:45: in upvalue 'handler'
+[ 116627002] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[ 116627002] stack traceback:
+[ 116627002] 	[C]: in function 'error'
+[ 116627002] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[ 116627002] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[ 116663928] Stopping resource Zombies
+[ 116663943] Started resource Zombies
+[ 116664630] loading data
+[ 116664833] 0
+[ 116664833] data loaded
+[ 116795062] Sending heartbeat to live-internal.fivem.net:30110
+[ 116811567] Stopping resource Zombies
+[ 116811598] Started resource Zombies
+[ 116812269] loading data
+[ 116812472] 0
+[ 116812472] data loaded
+[ 116873063] saving data
+[ 116890941] Stopping resource Zombies
+[ 116890956] Started resource Zombies
+[ 116891643] loading data
+[ 116891845] 0
+[ 116891845] data loaded
+[ 116915433] Stopping resource Zombies
+[ 116915448] Started resource Zombies
+[ 116916135] loading data
+[ 116916337] 0
+[ 116916337] data loaded
+[ 116975087] Sending heartbeat to live-internal.fivem.net:30110
+[ 116978083] saving data
+[ 116978457] [ERROR] [MySQL] An critical error happens on MySQL for query "UPDATE `crafting` SET bandages=@bandages, cleanwater = @cleanwater, cookedmeat=@cookedmeat, dirtywater=@dirtywater, drinkitems=@drinkitems, ducktape=@ducktape, emptybottles=@emptybottles, enginekit=@enginekit, fooditems=@fooditems, gunpowder=@gunpowder, rawmeat=@rawmeat, scrapcloth=@scrapcloth, scrapmetal=@scrapmetal, woodlogs=@woodlogs, woodmaterials=@woodmaterials, zblood=@zblood, zcredits=@zcredits WHERE identifier=@identifier {@identifier=steam:110000105ce25a9;@emptybottles=0;@rawmeat=0;@woodmaterials=0;@enginekit=0;@scrapmetal=0;@ducktape=0;@cleanwater=System.Collections.Generic.List`1[System.Object];@drinkitems=0;@zblood=0;@scrapcloth=0;@bandages=System.Collections.Generic.List`1[System.Object];@cookedmeat=0;@zcredits=0;@woodlogs=0;@dirtywater=0;@gunpowder=0;@fooditems=0}": Parameter type List`1 (DbType: AnsiString) not currently supported. Value: System.Collections.Generic.List`1[System.Object]   at MySql.Data.MySqlClient.MySqlParameter.AppendSqlString (System.IO.BinaryWriter writer, MySql.Data.MySqlClient.StatementPreparerOptions options) [0x00578] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 116978457]   at (wrapper remoting-invoke-with-check) MySql.Data.MySqlClient.MySqlParameter:AppendSqlString (System.IO.BinaryWriter,MySql.Data.MySqlClient.StatementPreparerOptions)
+[ 116978457]   at MySql.Data.MySqlClient.MySqlStatementPreparer+ParameterSqlParser.DoAppendParameter (System.Int32 parameterIndex, System.Int32 textIndex, System.Int32 textLength) [0x00079] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 116978457]   at MySql.Data.MySqlClient.MySqlStatementPreparer+ParameterSqlParser.OnNamedParameter (System.Int32 index, System.Int32 length) [0x00029] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 116978457]   at MySql.Data.MySqlClient.MySqlParser.Parse (System.String sql) [0x001be] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 116978457]   at MySql.Data.MySqlClient.MySqlStatementPreparer.ParseAndBindParameters () [0x0003a] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 116978457]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor.CreateQueryPayload (System.String commandText, MySql.Data.MySqlClient.MySqlParameterCollection parameterCollection) [0x00056] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 116978457]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor+<ExecuteReaderAsync>d__3.MoveNext () [0x0001d] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 116978457] --- End of stack trace from previous location where exception was thrown ---
+[ 116978457]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 116978457]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 116978457]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 116978457]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 116978457]   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1+ConfiguredTaskAwaiter[TResult].GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 116978457]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor+<ExecuteNonQueryAsync>d__1.MoveNext () [0x00094] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 116978457] --- End of stack trace from previous location where exception was thrown ---
+[ 116978457]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 116978457]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 116978457]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 116978457]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 116978457]   at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 116978457]   at MySQLAsync.Operation`1+<ExecuteAsync>d__3[TResult].MoveNext () [0x00169] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[ 116978457] hitch warning: frame time of 164 milliseconds
+[ 117032293] [SAVED] Cody196
+[ 117032293] [SAVED] All players
+[ 117037971] saving data
+[ 117038330] [ERROR] [MySQL] An critical error happens on MySQL for query "UPDATE `crafting` SET bandages=@bandages, cleanwater = @cleanwater, cookedmeat=@cookedmeat, dirtywater=@dirtywater, drinkitems=@drinkitems, ducktape=@ducktape, emptybottles=@emptybottles, enginekit=@enginekit, fooditems=@fooditems, gunpowder=@gunpowder, rawmeat=@rawmeat, scrapcloth=@scrapcloth, scrapmetal=@scrapmetal, woodlogs=@woodlogs, woodmaterials=@woodmaterials, zblood=@zblood, zcredits=@zcredits WHERE identifier=@identifier {@identifier=steam:110000105ce25a9;@emptybottles=0;@rawmeat=0;@woodmaterials=0;@enginekit=0;@scrapmetal=0;@ducktape=0;@cleanwater=System.Collections.Generic.List`1[System.Object];@drinkitems=0;@zblood=0;@scrapcloth=0;@bandages=System.Collections.Generic.List`1[System.Object];@cookedmeat=0;@zcredits=0;@woodlogs=0;@dirtywater=0;@gunpowder=0;@fooditems=0}": Parameter type List`1 (DbType: AnsiString) not currently supported. Value: System.Collections.Generic.List`1[System.Object]   at MySql.Data.MySqlClient.MySqlParameter.AppendSqlString (System.IO.BinaryWriter writer, MySql.Data.MySqlClient.StatementPreparerOptions options) [0x00578] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117038330]   at (wrapper remoting-invoke-with-check) MySql.Data.MySqlClient.MySqlParameter:AppendSqlString (System.IO.BinaryWriter,MySql.Data.MySqlClient.StatementPreparerOptions)
+[ 117038330]   at MySql.Data.MySqlClient.MySqlStatementPreparer+ParameterSqlParser.DoAppendParameter (System.Int32 parameterIndex, System.Int32 textIndex, System.Int32 textLength) [0x00079] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117038330]   at MySql.Data.MySqlClient.MySqlStatementPreparer+ParameterSqlParser.OnNamedParameter (System.Int32 index, System.Int32 length) [0x00029] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117038330]   at MySql.Data.MySqlClient.MySqlParser.Parse (System.String sql) [0x001be] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117038330]   at MySql.Data.MySqlClient.MySqlStatementPreparer.ParseAndBindParameters () [0x0003a] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117038330]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor.CreateQueryPayload (System.String commandText, MySql.Data.MySqlClient.MySqlParameterCollection parameterCollection) [0x00056] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117038330]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor+<ExecuteReaderAsync>d__3.MoveNext () [0x0001d] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117038330] --- End of stack trace from previous location where exception was thrown ---
+[ 117038330]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117038330]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117038330]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117038330]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117038330]   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1+ConfiguredTaskAwaiter[TResult].GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117038330]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor+<ExecuteNonQueryAsync>d__1.MoveNext () [0x00094] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117038330] --- End of stack trace from previous location where exception was thrown ---
+[ 117038330]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117038330]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117038330]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117038330]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117038330]   at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117038330]   at MySQLAsync.Operation`1+<ExecuteAsync>d__3[TResult].MoveNext () [0x00169] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[ 117038330] hitch warning: frame time of 156 milliseconds
+[ 117038814] Stopping resource carspawns
+[ 117038829] Started resource carspawns
+[ 117038970] Stopping resource lootercamps
+[ 117038970] Started resource lootercamps
+[ 117040171] 
+[ 117040171] --------------------------------------------------------------------------
+[ 117040187] 
+[ 117040187] EasyAdmin (EasyAdmin) is outdated.
+[ 117040187] Current Version: 4.3
+[ 117040187] Your Version: 4.21
+[ 117040187] Please update it from https://github.com/Bluethefurry/EasyAdmin
+[ 117040187] 
+[ 117040187] Update Changelog:
+[ 117040187] This Update fixes various bugs, adds new features and improves the UI, it is recommended you upgrade ASAP
+[ 117040187] 
+[ 117040187] --------------------------------------------------------------------------
+[ 117078204] Updating Weather to RAIN for all players.
+[ 117097907] saving data
+[ 117098250] [ERROR] [MySQL] An critical error happens on MySQL for query "UPDATE `crafting` SET bandages=@bandages, cleanwater = @cleanwater, cookedmeat=@cookedmeat, dirtywater=@dirtywater, drinkitems=@drinkitems, ducktape=@ducktape, emptybottles=@emptybottles, enginekit=@enginekit, fooditems=@fooditems, gunpowder=@gunpowder, rawmeat=@rawmeat, scrapcloth=@scrapcloth, scrapmetal=@scrapmetal, woodlogs=@woodlogs, woodmaterials=@woodmaterials, zblood=@zblood, zcredits=@zcredits WHERE identifier=@identifier {@identifier=steam:110000105ce25a9;@emptybottles=0;@rawmeat=0;@woodmaterials=0;@enginekit=0;@scrapmetal=0;@ducktape=0;@cleanwater=System.Collections.Generic.List`1[System.Object];@drinkitems=0;@zblood=0;@scrapcloth=0;@bandages=System.Collections.Generic.List`1[System.Object];@cookedmeat=0;@zcredits=0;@woodlogs=0;@dirtywater=0;@gunpowder=0;@fooditems=0}": Parameter type List`1 (DbType: AnsiString) not currently supported. Value: System.Collections.Generic.List`1[System.Object]   at MySql.Data.MySqlClient.MySqlParameter.AppendSqlString (System.IO.BinaryWriter writer, MySql.Data.MySqlClient.StatementPreparerOptions options) [0x00578] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117098250]   at (wrapper remoting-invoke-with-check) MySql.Data.MySqlClient.MySqlParameter:AppendSqlString (System.IO.BinaryWriter,MySql.Data.MySqlClient.StatementPreparerOptions)
+[ 117098250]   at MySql.Data.MySqlClient.MySqlStatementPreparer+ParameterSqlParser.DoAppendParameter (System.Int32 parameterIndex, System.Int32 textIndex, System.Int32 textLength) [0x00079] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117098250]   at MySql.Data.MySqlClient.MySqlStatementPreparer+ParameterSqlParser.OnNamedParameter (System.Int32 index, System.Int32 length) [0x00029] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117098250]   at MySql.Data.MySqlClient.MySqlParser.Parse (System.String sql) [0x001be] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117098250]   at MySql.Data.MySqlClient.MySqlStatementPreparer.ParseAndBindParameters () [0x0003a] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117098250]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor.CreateQueryPayload (System.String commandText, MySql.Data.MySqlClient.MySqlParameterCollection parameterCollection) [0x00056] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117098250]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor+<ExecuteReaderAsync>d__3.MoveNext () [0x0001d] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117098250] --- End of stack trace from previous location where exception was thrown ---
+[ 117098250]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117098250]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117098250]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117098250]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117098250]   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1+ConfiguredTaskAwaiter[TResult].GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117098250]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor+<ExecuteNonQueryAsync>d__1.MoveNext () [0x00094] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117098250] --- End of stack trace from previous location where exception was thrown ---
+[ 117098250]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117098250]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117098250]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117098250]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117098250]   at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117098250]   at MySQLAsync.Operation`1+<ExecuteAsync>d__3[TResult].MoveNext () [0x00169] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[ 117098250] hitch warning: frame time of 150 milliseconds
+[ 117155097] Sending heartbeat to live-internal.fivem.net:30110
+[ 117157796] saving data
+[ 117158170] [ERROR] [MySQL] An critical error happens on MySQL for query "UPDATE `crafting` SET bandages=@bandages, cleanwater = @cleanwater, cookedmeat=@cookedmeat, dirtywater=@dirtywater, drinkitems=@drinkitems, ducktape=@ducktape, emptybottles=@emptybottles, enginekit=@enginekit, fooditems=@fooditems, gunpowder=@gunpowder, rawmeat=@rawmeat, scrapcloth=@scrapcloth, scrapmetal=@scrapmetal, woodlogs=@woodlogs, woodmaterials=@woodmaterials, zblood=@zblood, zcredits=@zcredits WHERE identifier=@identifier {@identifier=steam:110000105ce25a9;@emptybottles=0;@rawmeat=0;@woodmaterials=0;@enginekit=0;@scrapmetal=0;@ducktape=0;@cleanwater=System.Collections.Generic.List`1[System.Object];@drinkitems=0;@zblood=0;@scrapcloth=0;@bandages=System.Collections.Generic.List`1[System.Object];@cookedmeat=0;@zcredits=0;@woodlogs=0;@dirtywater=0;@gunpowder=0;@fooditems=0}": Parameter type List`1 (DbType: AnsiString) not currently supported. Value: System.Collections.Generic.List`1[System.Object]   at MySql.Data.MySqlClient.MySqlParameter.AppendSqlString (System.IO.BinaryWriter writer, MySql.Data.MySqlClient.StatementPreparerOptions options) [0x00578] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117158170]   at (wrapper remoting-invoke-with-check) MySql.Data.MySqlClient.MySqlParameter:AppendSqlString (System.IO.BinaryWriter,MySql.Data.MySqlClient.StatementPreparerOptions)
+[ 117158170]   at MySql.Data.MySqlClient.MySqlStatementPreparer+ParameterSqlParser.DoAppendParameter (System.Int32 parameterIndex, System.Int32 textIndex, System.Int32 textLength) [0x00079] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117158170]   at MySql.Data.MySqlClient.MySqlStatementPreparer+ParameterSqlParser.OnNamedParameter (System.Int32 index, System.Int32 length) [0x00029] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117158170]   at MySql.Data.MySqlClient.MySqlParser.Parse (System.String sql) [0x001be] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117158170]   at MySql.Data.MySqlClient.MySqlStatementPreparer.ParseAndBindParameters () [0x0003a] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117158170]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor.CreateQueryPayload (System.String commandText, MySql.Data.MySqlClient.MySqlParameterCollection parameterCollection) [0x00056] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117158170]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor+<ExecuteReaderAsync>d__3.MoveNext () [0x0001d] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117158170] --- End of stack trace from previous location where exception was thrown ---
+[ 117158170]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117158170]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117158170]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117158170]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117158170]   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1+ConfiguredTaskAwaiter[TResult].GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117158170]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor+<ExecuteNonQueryAsync>d__1.MoveNext () [0x00094] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117158170] --- End of stack trace from previous location where exception was thrown ---
+[ 117158170]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117158170]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117158170]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117158170]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117158170]   at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117158170]   at MySQLAsync.Operation`1+<ExecuteAsync>d__3[TResult].MoveNext () [0x00169] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[ 117158170] hitch warning: frame time of 167 milliseconds
+[ 117217685] saving data
+[ 117218043] [ERROR] [MySQL] An critical error happens on MySQL for query "UPDATE `crafting` SET bandages=@bandages, cleanwater = @cleanwater, cookedmeat=@cookedmeat, dirtywater=@dirtywater, drinkitems=@drinkitems, ducktape=@ducktape, emptybottles=@emptybottles, enginekit=@enginekit, fooditems=@fooditems, gunpowder=@gunpowder, rawmeat=@rawmeat, scrapcloth=@scrapcloth, scrapmetal=@scrapmetal, woodlogs=@woodlogs, woodmaterials=@woodmaterials, zblood=@zblood, zcredits=@zcredits WHERE identifier=@identifier {@identifier=steam:110000105ce25a9;@emptybottles=0;@rawmeat=0;@woodmaterials=0;@enginekit=0;@scrapmetal=0;@ducktape=0;@cleanwater=System.Collections.Generic.List`1[System.Object];@drinkitems=0;@zblood=0;@scrapcloth=0;@bandages=System.Collections.Generic.List`1[System.Object];@cookedmeat=0;@zcredits=0;@woodlogs=0;@dirtywater=0;@gunpowder=0;@fooditems=0}": Parameter type List`1 (DbType: AnsiString) not currently supported. Value: System.Collections.Generic.List`1[System.Object]   at MySql.Data.MySqlClient.MySqlParameter.AppendSqlString (System.IO.BinaryWriter writer, MySql.Data.MySqlClient.StatementPreparerOptions options) [0x00578] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117218043]   at (wrapper remoting-invoke-with-check) MySql.Data.MySqlClient.MySqlParameter:AppendSqlString (System.IO.BinaryWriter,MySql.Data.MySqlClient.StatementPreparerOptions)
+[ 117218043]   at MySql.Data.MySqlClient.MySqlStatementPreparer+ParameterSqlParser.DoAppendParameter (System.Int32 parameterIndex, System.Int32 textIndex, System.Int32 textLength) [0x00079] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117218043]   at MySql.Data.MySqlClient.MySqlStatementPreparer+ParameterSqlParser.OnNamedParameter (System.Int32 index, System.Int32 length) [0x00029] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117218043]   at MySql.Data.MySqlClient.MySqlParser.Parse (System.String sql) [0x001be] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117218043]   at MySql.Data.MySqlClient.MySqlStatementPreparer.ParseAndBindParameters () [0x0003a] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117218043]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor.CreateQueryPayload (System.String commandText, MySql.Data.MySqlClient.MySqlParameterCollection parameterCollection) [0x00056] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117218059]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor+<ExecuteReaderAsync>d__3.MoveNext () [0x0001d] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117218059] --- End of stack trace from previous location where exception was thrown ---
+[ 117218059]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117218059]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117218059]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117218059]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117218059]   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1+ConfiguredTaskAwaiter[TResult].GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117218059]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor+<ExecuteNonQueryAsync>d__1.MoveNext () [0x00094] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117218059] --- End of stack trace from previous location where exception was thrown ---
+[ 117218059]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117218059]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117218059]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117218059]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117218059]   at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117218059]   at MySQLAsync.Operation`1+<ExecuteAsync>d__3[TResult].MoveNext () [0x00169] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[ 117218059] hitch warning: frame time of 164 milliseconds
+[ 117277605] saving data
+[ 117277948] [ERROR] [MySQL] An critical error happens on MySQL for query "UPDATE `crafting` SET bandages=@bandages, cleanwater = @cleanwater, cookedmeat=@cookedmeat, dirtywater=@dirtywater, drinkitems=@drinkitems, ducktape=@ducktape, emptybottles=@emptybottles, enginekit=@enginekit, fooditems=@fooditems, gunpowder=@gunpowder, rawmeat=@rawmeat, scrapcloth=@scrapcloth, scrapmetal=@scrapmetal, woodlogs=@woodlogs, woodmaterials=@woodmaterials, zblood=@zblood, zcredits=@zcredits WHERE identifier=@identifier {@identifier=steam:110000105ce25a9;@emptybottles=0;@rawmeat=0;@woodmaterials=0;@enginekit=0;@scrapmetal=0;@ducktape=0;@cleanwater=System.Collections.Generic.List`1[System.Object];@drinkitems=0;@zblood=0;@scrapcloth=0;@bandages=System.Collections.Generic.List`1[System.Object];@cookedmeat=0;@zcredits=0;@woodlogs=0;@dirtywater=0;@gunpowder=0;@fooditems=0}": Parameter type List`1 (DbType: AnsiString) not currently supported. Value: System.Collections.Generic.List`1[System.Object]   at MySql.Data.MySqlClient.MySqlParameter.AppendSqlString (System.IO.BinaryWriter writer, MySql.Data.MySqlClient.StatementPreparerOptions options) [0x00578] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117277948]   at (wrapper remoting-invoke-with-check) MySql.Data.MySqlClient.MySqlParameter:AppendSqlString (System.IO.BinaryWriter,MySql.Data.MySqlClient.StatementPreparerOptions)
+[ 117277948]   at MySql.Data.MySqlClient.MySqlStatementPreparer+ParameterSqlParser.DoAppendParameter (System.Int32 parameterIndex, System.Int32 textIndex, System.Int32 textLength) [0x00079] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117277948]   at MySql.Data.MySqlClient.MySqlStatementPreparer+ParameterSqlParser.OnNamedParameter (System.Int32 index, System.Int32 length) [0x00029] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117277948]   at MySql.Data.MySqlClient.MySqlParser.Parse (System.String sql) [0x001be] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117277948]   at MySql.Data.MySqlClient.MySqlStatementPreparer.ParseAndBindParameters () [0x0003a] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117277948]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor.CreateQueryPayload (System.String commandText, MySql.Data.MySqlClient.MySqlParameterCollection parameterCollection) [0x00056] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117277948]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor+<ExecuteReaderAsync>d__3.MoveNext () [0x0001d] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117277948] --- End of stack trace from previous location where exception was thrown ---
+[ 117277948]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117277948]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117277948]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117277948]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117277948]   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1+ConfiguredTaskAwaiter[TResult].GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117277948]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor+<ExecuteNonQueryAsync>d__1.MoveNext () [0x00094] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117277948] --- End of stack trace from previous location where exception was thrown ---
+[ 117277948]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117277948]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117277948]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117277948]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117277948]   at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117277948]   at MySQLAsync.Operation`1+<ExecuteAsync>d__3[TResult].MoveNext () [0x00169] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[ 117277963] hitch warning: frame time of 150 milliseconds
+[ 117335153] Sending heartbeat to live-internal.fivem.net:30110
+[ 117337462] saving data
+[ 117337805] [ERROR] [MySQL] An critical error happens on MySQL for query "UPDATE `crafting` SET bandages=@bandages, cleanwater = @cleanwater, cookedmeat=@cookedmeat, dirtywater=@dirtywater, drinkitems=@drinkitems, ducktape=@ducktape, emptybottles=@emptybottles, enginekit=@enginekit, fooditems=@fooditems, gunpowder=@gunpowder, rawmeat=@rawmeat, scrapcloth=@scrapcloth, scrapmetal=@scrapmetal, woodlogs=@woodlogs, woodmaterials=@woodmaterials, zblood=@zblood, zcredits=@zcredits WHERE identifier=@identifier {@identifier=steam:110000105ce25a9;@emptybottles=0;@rawmeat=0;@woodmaterials=0;@enginekit=0;@scrapmetal=0;@ducktape=0;@cleanwater=System.Collections.Generic.List`1[System.Object];@drinkitems=0;@zblood=0;@scrapcloth=0;@bandages=System.Collections.Generic.List`1[System.Object];@cookedmeat=0;@zcredits=0;@woodlogs=0;@dirtywater=0;@gunpowder=0;@fooditems=0}": Parameter type List`1 (DbType: AnsiString) not currently supported. Value: System.Collections.Generic.List`1[System.Object]   at MySql.Data.MySqlClient.MySqlParameter.AppendSqlString (System.IO.BinaryWriter writer, MySql.Data.MySqlClient.StatementPreparerOptions options) [0x00578] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117337805]   at (wrapper remoting-invoke-with-check) MySql.Data.MySqlClient.MySqlParameter:AppendSqlString (System.IO.BinaryWriter,MySql.Data.MySqlClient.StatementPreparerOptions)
+[ 117337805]   at MySql.Data.MySqlClient.MySqlStatementPreparer+ParameterSqlParser.DoAppendParameter (System.Int32 parameterIndex, System.Int32 textIndex, System.Int32 textLength) [0x00079] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117337805]   at MySql.Data.MySqlClient.MySqlStatementPreparer+ParameterSqlParser.OnNamedParameter (System.Int32 index, System.Int32 length) [0x00029] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117337805]   at MySql.Data.MySqlClient.MySqlParser.Parse (System.String sql) [0x001be] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117337805]   at MySql.Data.MySqlClient.MySqlStatementPreparer.ParseAndBindParameters () [0x0003a] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117337805]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor.CreateQueryPayload (System.String commandText, MySql.Data.MySqlClient.MySqlParameterCollection parameterCollection) [0x00056] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117337805]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor+<ExecuteReaderAsync>d__3.MoveNext () [0x0001d] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117337805] --- End of stack trace from previous location where exception was thrown ---
+[ 117337805]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117337805]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117337805]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117337805]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117337805]   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1+ConfiguredTaskAwaiter[TResult].GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117337805]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor+<ExecuteNonQueryAsync>d__1.MoveNext () [0x00094] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117337805] --- End of stack trace from previous location where exception was thrown ---
+[ 117337805]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117337805]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117337805]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117337805]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117337805]   at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117337805]   at MySQLAsync.Operation`1+<ExecuteAsync>d__3[TResult].MoveNext () [0x00169] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[ 117337805] hitch warning: frame time of 152 milliseconds
+[ 117397367] saving data
+[ 117397725] [ERROR] [MySQL] An critical error happens on MySQL for query "UPDATE `crafting` SET bandages=@bandages, cleanwater = @cleanwater, cookedmeat=@cookedmeat, dirtywater=@dirtywater, drinkitems=@drinkitems, ducktape=@ducktape, emptybottles=@emptybottles, enginekit=@enginekit, fooditems=@fooditems, gunpowder=@gunpowder, rawmeat=@rawmeat, scrapcloth=@scrapcloth, scrapmetal=@scrapmetal, woodlogs=@woodlogs, woodmaterials=@woodmaterials, zblood=@zblood, zcredits=@zcredits WHERE identifier=@identifier {@identifier=steam:110000105ce25a9;@emptybottles=0;@rawmeat=0;@woodmaterials=0;@enginekit=0;@scrapmetal=0;@ducktape=0;@cleanwater=System.Collections.Generic.List`1[System.Object];@drinkitems=0;@zblood=0;@scrapcloth=0;@bandages=System.Collections.Generic.List`1[System.Object];@cookedmeat=0;@zcredits=0;@woodlogs=0;@dirtywater=0;@gunpowder=0;@fooditems=0}": Parameter type List`1 (DbType: AnsiString) not currently supported. Value: System.Collections.Generic.List`1[System.Object]   at MySql.Data.MySqlClient.MySqlParameter.AppendSqlString (System.IO.BinaryWriter writer, MySql.Data.MySqlClient.StatementPreparerOptions options) [0x00578] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117397725]   at (wrapper remoting-invoke-with-check) MySql.Data.MySqlClient.MySqlParameter:AppendSqlString (System.IO.BinaryWriter,MySql.Data.MySqlClient.StatementPreparerOptions)
+[ 117397725]   at MySql.Data.MySqlClient.MySqlStatementPreparer+ParameterSqlParser.DoAppendParameter (System.Int32 parameterIndex, System.Int32 textIndex, System.Int32 textLength) [0x00079] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117397725]   at MySql.Data.MySqlClient.MySqlStatementPreparer+ParameterSqlParser.OnNamedParameter (System.Int32 index, System.Int32 length) [0x00029] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117397725]   at MySql.Data.MySqlClient.MySqlParser.Parse (System.String sql) [0x001be] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117397725]   at MySql.Data.MySqlClient.MySqlStatementPreparer.ParseAndBindParameters () [0x0003a] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117397725]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor.CreateQueryPayload (System.String commandText, MySql.Data.MySqlClient.MySqlParameterCollection parameterCollection) [0x00056] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117397725]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor+<ExecuteReaderAsync>d__3.MoveNext () [0x0001d] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117397725] --- End of stack trace from previous location where exception was thrown ---
+[ 117397725]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117397725]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117397725]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117397725]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117397725]   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1+ConfiguredTaskAwaiter[TResult].GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117397725]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor+<ExecuteNonQueryAsync>d__1.MoveNext () [0x00094] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117397725] --- End of stack trace from previous location where exception was thrown ---
+[ 117397725]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117397725]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117397725]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117397725]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117397725]   at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117397725]   at MySQLAsync.Operation`1+<ExecuteAsync>d__3[TResult].MoveNext () [0x00169] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[ 117397725] hitch warning: frame time of 162 milliseconds
+[ 117457271] saving data
+[ 117457630] [ERROR] [MySQL] An critical error happens on MySQL for query "UPDATE `crafting` SET bandages=@bandages, cleanwater = @cleanwater, cookedmeat=@cookedmeat, dirtywater=@dirtywater, drinkitems=@drinkitems, ducktape=@ducktape, emptybottles=@emptybottles, enginekit=@enginekit, fooditems=@fooditems, gunpowder=@gunpowder, rawmeat=@rawmeat, scrapcloth=@scrapcloth, scrapmetal=@scrapmetal, woodlogs=@woodlogs, woodmaterials=@woodmaterials, zblood=@zblood, zcredits=@zcredits WHERE identifier=@identifier {@identifier=steam:110000105ce25a9;@emptybottles=0;@rawmeat=0;@woodmaterials=0;@enginekit=0;@scrapmetal=0;@ducktape=0;@cleanwater=System.Collections.Generic.List`1[System.Object];@drinkitems=0;@zblood=0;@scrapcloth=0;@bandages=System.Collections.Generic.List`1[System.Object];@cookedmeat=0;@zcredits=0;@woodlogs=0;@dirtywater=0;@gunpowder=0;@fooditems=0}": Parameter type List`1 (DbType: AnsiString) not currently supported. Value: System.Collections.Generic.List`1[System.Object]   at MySql.Data.MySqlClient.MySqlParameter.AppendSqlString (System.IO.BinaryWriter writer, MySql.Data.MySqlClient.StatementPreparerOptions options) [0x00578] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117457630]   at (wrapper remoting-invoke-with-check) MySql.Data.MySqlClient.MySqlParameter:AppendSqlString (System.IO.BinaryWriter,MySql.Data.MySqlClient.StatementPreparerOptions)
+[ 117457630]   at MySql.Data.MySqlClient.MySqlStatementPreparer+ParameterSqlParser.DoAppendParameter (System.Int32 parameterIndex, System.Int32 textIndex, System.Int32 textLength) [0x00079] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117457630]   at MySql.Data.MySqlClient.MySqlStatementPreparer+ParameterSqlParser.OnNamedParameter (System.Int32 index, System.Int32 length) [0x00029] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117457630]   at MySql.Data.MySqlClient.MySqlParser.Parse (System.String sql) [0x001be] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117457630]   at MySql.Data.MySqlClient.MySqlStatementPreparer.ParseAndBindParameters () [0x0003a] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117457630]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor.CreateQueryPayload (System.String commandText, MySql.Data.MySqlClient.MySqlParameterCollection parameterCollection) [0x00056] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117457630]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor+<ExecuteReaderAsync>d__3.MoveNext () [0x0001d] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117457630] --- End of stack trace from previous location where exception was thrown ---
+[ 117457630]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117457630]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117457630]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117457630]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117457630]   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1+ConfiguredTaskAwaiter[TResult].GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117457630]   at MySql.Data.MySqlClient.CommandExecutors.TextCommandExecutor+<ExecuteNonQueryAsync>d__1.MoveNext () [0x00094] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[ 117457630] --- End of stack trace from previous location where exception was thrown ---
+[ 117457630]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117457630]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117457630]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117457630]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117457630]   at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[ 117457630]   at MySQLAsync.Operation`1+<ExecuteAsync>d__3[TResult].MoveNext () [0x00169] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[ 117457630] hitch warning: frame time of 163 milliseconds
+[ 117485648] Stopping resource Zombies
+[ 117485679] Started resource Zombies
+[ 117486256] loading data
+[ 117486459] 0
+[ 117486459] nil
+[ 117486459] data loaded
+[ 117515194] Sending heartbeat to live-internal.fivem.net:30110
+[ 117532105] Stopping resource Zombies
+[ 117532120] Started resource Zombies
+[ 117532354] loading data
+[ 117532557] 0
+[ 117532557] nil
+[ 117532557] data loaded
+[ 117568453] Stopping resource Zombies
+[ 117568468] Started resource Zombies
+[ 117568702] loading data
+[ 117568905] 0
+[ 117568921] Error running call reference function for resource Zombies: citizen:/scripting/lua/scheduler.lua:351: loot/server.lua:94: attempt to index a nil value (field '?')
+[ 117568921] stack traceback:
+[ 117568921] 	loot/server.lua:94: in upvalue 'ref'
+[ 117568921] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[ 117568921] 	[C]: in function 'xpcall'
+[ 117568921] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[ 117568921] stack traceback:
+[ 117568921] 	[C]: in function 'error'
+[ 117568921] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[ 117568952] [ERROR] [MySQL] Check the error above, an error happens when executing the callback from the query : "SELECT `bandages`, `cleanwater`, `cookedmeat`, `dirtywater`, `drinkitems`, `ducktape`, `emptybottles`, `enginekit`, `fooditems`, `gunpowder`, `rawmeat`, `scrapcloth`, `scrapmetal`, `woodlogs`, `woodmaterials`, `zblood`, `zcredits` FROM `crafting` WHERE identifier = @identifier {@identifier=steam:110000105ce25a9}"
+[ 117589778] Stopping resource Zombies
+[ 117589794] Started resource Zombies
+[ 117590028] loading data
+[ 117590231] 0
+[ 117590231] nil
+[ 117590231] data loaded
+[ 117604692] Stopping resource Zombies
+[ 117604707] Started resource Zombies
+[ 117604941] loading data
+[ 117605144] nil
+[ 117605144] data loaded
+[ 117613771] Stopping resource Zombies
+[ 117613787] Started resource Zombies
+[ 117614021] loading data
+[ 117614224] nil
+[ 117614224] data loaded
+[ 117632335] [SAVED] Cody196
+[ 117632335] [SAVED] All players
+[ 117671944] Stopping resource Zombies
+[ 117671960] Started resource Zombies
+[ 117672646] loading data
+[ 117672849] 0
+[ 117672849] data loaded
+[ 117681632] Updating Weather to CLEARING for all players.
+[ 117695204] Sending heartbeat to live-internal.fivem.net:30110
+[ 117733798] saving data
