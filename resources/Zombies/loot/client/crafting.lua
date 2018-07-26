@@ -3,6 +3,7 @@ inventory = false
 GUIOpen = false
 dataloaded = false
 dataChecked = false
+datareceived = false
 
 ESX = {}
 
@@ -12,29 +13,6 @@ Citizen.CreateThread(function()
     Citizen.Wait(1)
   end
 end)
-
-clientVars = {
-	-- Inventory Variables
-	drinkItems = 0,
-	foodItems = 0,
-	bandages = 0,
-	ductTape = 0,
-	engineKit = 0,
-	dirtyWater = 0,
-	cleanWater = 0,
-	cookedMeat = 0,
-	rawMeat = 0,
-	zCredits = 0,
-
-	-- Crafting Variables
-	emptyBottles = 0,
-	woodMaterials = 0,
-	scrapMetal = 0,
-	scrapCloth = 0,
-	gunPowder = 0,
-	zBlood = 0,
-	woodLogs = 0,
-}
 
 --TriggerServerEvent('CreateData', clientVars)
 
@@ -54,11 +32,14 @@ end
 -- Arrays
 campfires = {}
 
+
 -- Load data after connecting
 AddEventHandler('playerSpawned', function()
 	TriggerServerEvent('loadData', clientVars)
 	dataloaded = true
 end)
+
+TriggerServerEvent('loadData', clientVars)
 
 -- Check whitelist
 whitelisted = nil
@@ -76,12 +57,6 @@ print('checked')
 
 end)
 
---[[RegisterNetEvent("sendData")
-AddEventHandler("sendData", function(rows)
-	bandages = ['@bandages']
-	cleanwater = ['@cleanwater']
-end)--]]
-
 -- Saves data to MySQL database every so often
 Citizen.CreateThread(function()
 	while true do
@@ -91,6 +66,33 @@ Citizen.CreateThread(function()
 end)
 
 
+
+RegisterNetEvent("sendData")
+AddEventHandler("sendData", function(newVars)
+end)
+
+clientVars = {
+	-- Inventory Variables
+	drinkItems = 0,
+	foodItems = 0,
+	bandages = newVars.bandages,
+	ductTape = 0,
+	engineKit = 0,
+	dirtyWater = 0,
+	cleanWater = newVars.cleanWater,
+	cookedMeat = 0,
+	rawMeat = 0,
+	zCredits = 0,
+
+	-- Crafting Variables
+	emptyBottles = 0,
+	woodMaterials = 0,
+	scrapMetal = 0,
+	scrapCloth = 0,
+	gunPowder = 0,
+	zBlood = 0,
+	woodLogs = 0,
+}
 
 
 Citizen.CreateThread(function()
@@ -109,11 +111,11 @@ Citizen.CreateThread(function()
 			-- Remove old inventory items
 			clientVars.drinkItems = 0
 			clientVars.foodItems = 0
-			clientVars.bandages = 0
+			newVars.bandages = 0
 			clientVars.ductTape = 0
 			clientVars.engineKit = 0
 			clientVars.dirtyWater = 0
-			clientVars.cleanWater = 0
+			newVars.cleanWater = 0
 			clientVars.cookedMeat = 0
 			clientVars.rawMeat = 0
 			clientVars.zCredits = 0

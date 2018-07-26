@@ -3,7 +3,6 @@ ESX = nil
 
 local firstSpawn = {}
 
-
 TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 
 RegisterServerEvent("CreateData")
@@ -70,10 +69,30 @@ AddEventHandler('loadData', function()
 	print('loading data')
 	local identifier = GetPlayerIdentifiers(source)[1]
 	
-	MySQL.Async.fetchAll('SELECT `bandages`, `cleanwater`, `cookedmeat`, `dirtywater`, `drinkitems`, `ducktape`, `emptybottles`, `enginekit`, `fooditems`, `gunpowder`, `rawmeat`, `scrapcloth`, `scrapmetal`, `woodlogs`, `woodmaterials`, `zblood`, `zcredits` FROM `crafting` WHERE identifier = @identifier', {['@identifier'] = identifier}, function(players)
-		--print(players[1].identifier)
+	MySQL.Async.fetchAll('SELECT `bandages`, `cleanwater`, `cookedmeat`, `dirtywater`, `drinkitems`, `ducktape`, `emptybottles`, `enginekit`, `fooditems`, `gunpowder`, `rawmeat`, `scrapcloth`, `scrapmetal`, `woodlogs`, `woodmaterials`, `zblood`, `zcredits` FROM `crafting` WHERE identifier = @identifier', 
+	{
+		['@identifier'] = identifier,
+		['@bandages'] = bandages,
+		['@cleanwater'] = cleanWater,
+		['@cookedmeat'] = cookedMeat,
+		['@dirtywater'] = dirtyWater,
+		['@drinkitems'] = drinkItems,
+		['@ducktape'] = ductTape,
+		['@emptybottles'] = emptyBottles,
+		['@enginekit'] = engineKit,
+		['@fooditems'] = foodItems,
+		['@gunpowder'] = gunPowder,
+		['@rawmeat'] = rawMeat,
+		['@scrapcloth'] = scrapCloth,
+		['@scrapmetal'] = scrapMetal,
+		['@woodlogs'] = woodLogs,
+		['@woodmaterials'] = woodMaterials,
+		['@zblood'] = zBlood,
+		['@zcredits'] = zCredits,
+	}, function(serverVars)
+		print(serverVars[1].bandages)
+		TriggerClientEvent("sendData", serverVars)
 		print('data loaded')
-		--TriggerClientEvent("sendData", serverVars)
 	end)
 
 end)
