@@ -1,0 +1,1 @@
+Rat Bike,1873600305,6,131,6,132,0,0,255,255,255,6,-1,-1,false,false,false,false,-1,4,2,3,-1,2,0,2,1,4,-1,0,-1,1,-1,false,false,false,false,255,0,255,0,66ENC447,-1,2,8,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,false,false,217,217,217,240,240,240,-1,-1,false,false,false,false,false,false,false,false,false,false,false,false,false,false

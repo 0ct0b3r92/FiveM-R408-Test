@@ -1,0 +1,1 @@
+Emperor Rusty,-1883002148,6,85,6,26,0,156,255,255,255,2,-1,-1,false,false,false,false,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,false,false,false,false,255,0,255,0,42HXC897,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,false,false,42,55,84,59,70,84,-1,-1,false,false,false,false,false,false,false,false,false,false,true,false,false,false

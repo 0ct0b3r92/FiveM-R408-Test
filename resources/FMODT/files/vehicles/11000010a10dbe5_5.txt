@@ -1,0 +1,1 @@
+Trade caravan,2053223216,0,111,0,1,114,156,255,255,255,0,-1,-1,false,false,false,false,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,false,false,false,false,255,0,255,0,28UZL126,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,false,false,240,240,240,15,15,15,-1,-1,false,false,false,false,false,false,true,false,false,false,false,false,false,false

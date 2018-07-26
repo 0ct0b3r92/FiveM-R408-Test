@@ -1,0 +1,1 @@
+NRF Hermes,15219735,3,152,6,120,0,0,255,255,255,1,-1,-1,true,false,false,false,-1,4,-1,-1,-1,2,6,-1,-1,-1,-1,-1,-1,-1,-1,false,false,false,false,255,0,255,0,49HMX584,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,false,false,50,51,37,0,0,0,6,-1,false,false,false,false,false,false,false,false,false,false,false,false,false,false

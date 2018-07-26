@@ -1,0 +1,1 @@
+Kamacho,-121446169,3,12,3,12,18,3,255,255,255,3,-1,-1,true,false,false,false,-1,4,2,0,-1,2,2,0,3,3,-1,-1,0,7,-1,false,false,false,false,255,0,255,5, REAPER ,-1,0,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,false,false,5,5,5,5,5,5,9,-1,true,false,false,false,false,false,false,false,false,false,false,false,false,false

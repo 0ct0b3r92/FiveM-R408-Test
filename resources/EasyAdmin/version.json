@@ -1,0 +1,4 @@
+{
+    "version":"4.21",
+    "changelog":"This Update adds Localisation, by default english is enabled, you can set custom languages by using the ea_LanguageName convar, possible values: en,fr,de\nWant to help translate?\nhttps://github.com/Bluethefurry/EasyAdmin/wiki/Translating-EasyAdmin"
+}

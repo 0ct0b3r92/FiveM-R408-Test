@@ -1,0 +1,1 @@
+Delorean,1483171323,6,19,6,10,23,0,255,255,255,1,-1,-1,false,false,false,false,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,false,false,false,false,255,0,255,0,88NGJ146,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,false,false,35,41,46,35,41,46,-1,-1,false,false,false,false,false,false,false,false,false,false,false,false,false,false

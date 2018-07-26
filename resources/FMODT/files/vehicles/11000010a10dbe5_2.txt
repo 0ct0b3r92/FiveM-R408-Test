@@ -1,0 +1,1 @@
+Armored Boxville,682434785,6,12,6,0,18,156,255,255,255,0,-1,-1,false,false,false,false,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,false,false,false,false,255,0,255,0,81EZT239,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,false,false,5,5,5,8,8,8,-1,-1,false,false,false,false,false,false,false,false,false,false,false,false,false,false

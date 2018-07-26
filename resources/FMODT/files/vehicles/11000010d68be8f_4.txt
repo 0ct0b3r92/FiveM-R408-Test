@@ -1,0 +1,1 @@
+Demon Nightshark,433954513,3,39,6,0,6,1,255,255,255,3,-1,-1,true,false,false,false,-1,4,2,3,-1,-1,2,2,2,1,2,-1,8,9,-1,false,false,false,false,255,0,255,0,41ZMQ624,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,false,false,120,0,0,8,8,8,13,-1,false,false,false,false,false,false,false,false,false,false,false,false,false,false

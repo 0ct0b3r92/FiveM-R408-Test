@@ -1,0 +1,1 @@
+Weaponized Tampa,-1210451983,3,154,6,154,3,154,255,255,255,1,-1,-1,false,false,false,false,-1,4,2,3,3,2,0,0,2,-1,-1,-1,-1,2,-1,false,false,false,false,255,0,255,5,84OSG940,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,false,false,112,102,86,112,102,86,-1,-1,false,false,false,false,false,false,false,false,false,false,false,false,false,false

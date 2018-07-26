@@ -1,0 +1,1 @@
+Demon MEsa,-2064372143,3,40,3,12,0,0,255,255,255,4,6,-1,true,false,false,false,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,false,false,false,false,255,0,255,0,22LLN116,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,false,false,54,0,0,5,5,5,-1,-1,true,true,false,false,false,false,false,false,false,false,false,true,false,false
