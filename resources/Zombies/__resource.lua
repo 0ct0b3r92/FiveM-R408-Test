@@ -23,7 +23,11 @@ server_scripts {
 	"@mysql-async/lib/MySQL.lua",
 	"server/main.lua",
 	"server/gui_s.lua",
+	
 	"loot/server.lua",
+	
+	"donations/whitelist.lua",
+	
 	--"server/notifications_s.lua",
 	--"server/itemspawner_server.lua",
 }
@@ -40,6 +44,8 @@ client_scripts {
 	"loot/client/lootcoords.lua",
 	"loot/client/trading.lua",
 	"loot/client/zpills.lua",
+	
+	"donations/donations.lua",
 	
 	"client/warmenu.lua",
 	"client/newplayer.lua",
