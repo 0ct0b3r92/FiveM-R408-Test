@@ -55637,3 +55637,146 @@
 [ 196345151] Updating Weather to SMOG for all players.
 [ 196346150] saving data
 [ 196406007] saving data
+[ 196466333] saving data
+[ 196508157] Sending heartbeat to live-internal.fivem.net:30110
+[ 196526237] saving data
+[ 196586594] saving data
+[ 196646483] saving data
+[ 196688213] Sending heartbeat to live-internal.fivem.net:30110
+[ 196706387] saving data
+[ 196766276] saving data
+[ 196826134] saving data
+[ 196868238] Sending heartbeat to live-internal.fivem.net:30110
+[ 196886022] saving data
+[ 196931497] [SAVED] Cody196
+[ 196931497] [SAVED] All players
+[ 196938766] Stopping resource carspawns
+[ 196938766] Started resource carspawns
+[ 196938813] Stopping resource lootercamps
+[ 196938813] Started resource lootercamps
+[ 196945989] saving data
+[ 196948392] Updating Weather to OVERCAST for all players.
+[ 197005847] saving data
+[ 197048295] Sending heartbeat to live-internal.fivem.net:30110
+[ 197065751] saving data
+[ 197125624] saving data
+[ 197185529] saving data
+[ 197228335] Sending heartbeat to live-internal.fivem.net:30110
+[ 197245386] saving data
+[ 197305337] saving data
+[ 197365211] saving data
+[ 197408361] Sending heartbeat to live-internal.fivem.net:30110
+[ 197425131] saving data
+[ 197485004] saving data
+[ 197531508] [SAVED] Cody196
+[ 197531508] [SAVED] All players
+[ 197544861] saving data
+[ 197551944] Updating Weather to CLEARING for all players.
+[ 197588370] Sending heartbeat to live-internal.fivem.net:30110
+[ 197604703] saving data
+[ 197664670] saving data
+[ 197674358] Sending heartbeat to live-internal.fivem.net:30110
+[ 197674654] Player dropped: Cody196[SAVED] Cody196
+[ 197685138] Stopping resource Zombies
+[ 197685184] Started resource Zombies
+[ 197838845] Stopping resource lootercamps
+[ 197838845] Started resource lootercamps
+[ 197854399] Sending heartbeat to live-internal.fivem.net:30110
+[ 198034439] Sending heartbeat to live-internal.fivem.net:30110
+[ 198131191] [SAVED] All players
+[ 198155028] Updating Weather to SMOG for all players.
+[ 198214480] Sending heartbeat to live-internal.fivem.net:30110
+[ 198394505] Sending heartbeat to live-internal.fivem.net:30110
+[ 198574546] Sending heartbeat to live-internal.fivem.net:30110
+[ 198731202] [SAVED] All players
+[ 198738784] Stopping resource carspawns
+[ 198738784] Started resource carspawns
+[ 198738877] Stopping resource lootercamps
+[ 198738893] Started resource lootercamps
+[ 198739283] 
+[ 198739283] --------------------------------------------------------------------------
+[ 198739299] 
+[ 198739299] EasyAdmin (EasyAdmin) is outdated.
+[ 198739299] Current Version: 4.3
+[ 198739299] Your Version: 4.21
+[ 198739299] Please update it from https://github.com/Bluethefurry/EasyAdmin
+[ 198739299] 
+[ 198739299] Update Changelog:
+[ 198739299] This Update fixes various bugs, adds new features and improves the UI, it is recommended you upgrade ASAP
+[ 198739299] 
+[ 198739299] --------------------------------------------------------------------------
+[ 198754587] Sending heartbeat to live-internal.fivem.net:30110
+[ 198757988] Updating Weather to CLEARING for all players.
+[ 198934612] Sending heartbeat to live-internal.fivem.net:30110
+[ 199114637] Sending heartbeat to live-internal.fivem.net:30110
+[ 199163153] Connecting: Cody196
+[ 199167397] Sending heartbeat to live-internal.fivem.net:30110
+[ 199217598] loading data
+[ 199217613] Error running system event handling function for resource Zombies: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: loot/server.lua:75: attempt to index a nil value (global 'serverVars')
+[ 199217613] stack traceback:
+[ 199217613] 	loot/server.lua:75: in upvalue 'handler'
+[ 199217613] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[ 199217613] stack traceback:
+[ 199217613] 	[C]: in function 'error'
+[ 199217613] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[ 199217613] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[ 199220063] Syncing weather for: Cody196
+[ 199224384] An admin joined
+[ 199224384] steam:110000105ce25a9
+[ 199224384] A donator joined
+[ 199224384] loading data
+[ 199224399] Error running system event handling function for resource Zombies: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: loot/server.lua:75: attempt to index a nil value (global 'serverVars')
+[ 199224399] stack traceback:
+[ 199224399] 	loot/server.lua:75: in upvalue 'handler'
+[ 199224399] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[ 199224399] stack traceback:
+[ 199224399] 	[C]: in function 'error'
+[ 199224399] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[ 199224399] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[ 199224415] An admin joined
+[ 199281355] saving data
+[ 199331572] [SAVED] Cody196
+[ 199331572] [SAVED] All players
+[ 199341244] saving data
+[ 199347422] Sending heartbeat to live-internal.fivem.net:30110
+[ 199361119] Updating Weather to CLEAR for all players.
+[ 199401133] saving data
+[ 199429634] Stopping resource Zombies
+[ 199429650] Started resource Zombies
+[ 199429931] loading data
+[ 199430180] 0
+[ 199430180] data loaded
+[ 199490896] saving data
+[ 199527463] Sending heartbeat to live-internal.fivem.net:30110
+[ 199550800] saving data
+[ 199596852] Stopping resource Zombies
+[ 199596867] Started resource Zombies
+[ 199597101] loading data
+[ 199597117] Error running system event handling function for resource Zombies: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: loot/server.lua:75: attempt to index a nil value (global 'serverVars')
+[ 199597117] stack traceback:
+[ 199597117] 	loot/server.lua:75: in upvalue 'handler'
+[ 199597117] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[ 199597117] stack traceback:
+[ 199597117] 	[C]: in function 'error'
+[ 199597117] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[ 199597117] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[ 199638894] Stopping resource lootercamps
+[ 199638894] Started resource lootercamps
+[ 199657006] saving data
+[ 199707488] Sending heartbeat to live-internal.fivem.net:30110
+[ 199716926] saving data
+[ 199735989] Stopping resource Zombies
+[ 199736005] Started resource Zombies
+[ 199737237] loading data
+[ 199737440] 0
+[ 199737440] data loaded
+[ 199887528] Sending heartbeat to live-internal.fivem.net:30110
+[ 199931583] [SAVED] Cody196
+[ 199931583] [SAVED] All players
+[ 199947667] Stopping resource Zombies
+[ 199947698] Started resource Zombies
+[ 199948478] loading data
+[ 199948681] 0
+[ 199948681] data loaded
+[ 199964577] Updating Weather to EXTRASUNNY for all players.
+[ 200010286] saving data

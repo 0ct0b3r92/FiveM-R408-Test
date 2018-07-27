@@ -83,8 +83,16 @@ end)
 
 
 RegisterNetEvent("sendData")
-AddEventHandler("sendData", function(clientVars)
+AddEventHandler("sendData", function(rows)
+	datareceived = true
 end)
+
+function NewData()
+	if datareceived == true then
+		bandages = rows.bandages
+		cleanWater = rows.cleanWater
+	end
+end
 
 
 -- Saves data to MySQL database every so often
@@ -709,7 +717,7 @@ Citizen.CreateThread(function()
 				AddTextComponentString('Food: ' .. clientVars.foodItems)
 				DrawText(0.60, 0.30)
 			end
-			if clientVars.bandages then
+			if bandages then
 				SetTextFont(0)
 				SetTextProportional(1)
 				SetTextScale(0.0, 0.30)
@@ -720,7 +728,7 @@ Citizen.CreateThread(function()
 				SetTextDropShadow()
 				SetTextOutline()
 				SetTextEntry("STRING")
-				AddTextComponentString('Bandages: ' .. clientVars.bandages)
+				AddTextComponentString('Bandages: ' .. bandages)
 				DrawText(0.60, 0.32)
 			end
 			if clientVars.ductTape then
@@ -807,7 +815,7 @@ Citizen.CreateThread(function()
 				AddTextComponentString('Dirty Water: ' .. clientVars.dirtyWater)
 				DrawText(0.60, 0.44)
 			end
-			if clientVars.cleanWater then
+			if cleanWater then
 				SetTextFont(0)
 				SetTextProportional(1)
 				SetTextScale(0.0, 0.30)
@@ -818,7 +826,7 @@ Citizen.CreateThread(function()
 				SetTextDropShadow()
 				SetTextOutline()
 				SetTextEntry("STRING")
-				AddTextComponentString('Purified Water: ' .. clientVars.cleanWater)
+				AddTextComponentString('Purified Water: ' .. cleanWater)
 				DrawText(0.60, 0.46)
 			end
 		end
