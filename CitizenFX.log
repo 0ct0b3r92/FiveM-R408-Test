@@ -55780,3 +55780,297 @@
 [ 199948681] data loaded
 [ 199964577] Updating Weather to EXTRASUNNY for all players.
 [ 200010286] saving data
+[ 200067569] Sending heartbeat to live-internal.fivem.net:30110
+[ 200070174] saving data
+[ 200130094] saving data
+[ 200189983] saving data
+[ 200247594] Sending heartbeat to live-internal.fivem.net:30110
+[ 200250090] saving data
+[ 200309979] saving data
+[ 200369868] saving data
+[ 200427619] Sending heartbeat to live-internal.fivem.net:30110
+[ 200429788] saving data
+[ 200489723] saving data
+[ 200531610] [SAVED] Cody196
+[ 200531610] [SAVED] All players
+[ 200538833] Stopping resource carspawns
+[ 200538833] Started resource carspawns
+[ 200538926] Stopping resource lootercamps
+[ 200538942] Started resource lootercamps
+[ 200549612] saving data
+[ 200567880] Updating Weather to CLEAR for all players.
+[ 200607629] Sending heartbeat to live-internal.fivem.net:30110
+[ 200609532] saving data
+[ 200638938] Stopping resource Zombies
+[ 200638954] Started resource Zombies
+[ 200668688] Stopping resource Zombies
+[ 200668703] Started resource Zombies
+[ 200669437] loading data
+[ 200669639] 0
+[ 200669639] data loaded
+[ 200720418] Stopping resource Zombies
+[ 200720433] Started resource Zombies
+[ 200721167] loading data
+[ 200721369] 0
+[ 200721369] data loaded
+[ 200782179] saving data
+[ 200787639] Sending heartbeat to live-internal.fivem.net:30110
+[ 200842099] saving data
+[ 200903033] saving data
+[ 200962906] saving data
+[ 200967679] Sending heartbeat to live-internal.fivem.net:30110
+[ 201022795] saving data
+[ 201033590] Stopping resource Zombies
+[ 201033605] Started resource Zombies
+[ 201034339] loading data
+[ 201034541] 0
+[ 201034541] data loaded
+[ 201088471] Stopping resource Zombies
+[ 201088487] Started resource Zombies
+[ 201089157] loading data
+[ 201089360] 0
+[ 201089360] data loaded
+[ 201108221] Stopping resource Zombies
+[ 201108236] Started resource Zombies
+[ 201108829] loading data
+[ 201109032] 0
+[ 201109032] data loaded
+[ 201131652] [SAVED] Cody196
+[ 201131652] [SAVED] All players
+[ 201147705] Sending heartbeat to live-internal.fivem.net:30110
+[ 201169186] saving data
+[ 201171151] Updating Weather to SMOG for all players.
+[ 201205737] Stopping resource Zombies
+[ 201205752] Started resource Zombies
+[ 201206486] loading data
+[ 201206673] 0
+[ 201206688] data loaded
+[ 201233692] Stopping resource Zombies
+[ 201233723] Started resource Zombies
+[ 201234441] loading data
+[ 201234644] 0
+[ 201234644] data loaded
+[ 201276109] Stopping resource Zombies
+[ 201276140] Started resource Zombies
+[ 201276858] loading data
+[ 201277061] 0
+[ 201277061] data loaded
+[ 201327745] Sending heartbeat to live-internal.fivem.net:30110
+[ 201337168] saving data
+[ 201397041] saving data
+[ 201438990] Stopping resource lootercamps
+[ 201438990] Started resource lootercamps
+[ 201456976] saving data
+[ 201507755] Sending heartbeat to live-internal.fivem.net:30110
+[ 201516896] saving data
+[ 201576770] saving data
+[ 201636674] saving data
+[ 201687796] Sending heartbeat to live-internal.fivem.net:30110
+[ 201696516] saving data
+[ 201731679] [SAVED] Cody196
+[ 201731679] [SAVED] All players
+[ 201756420] saving data
+[ 201773237] Stopping resource Zombies
+[ 201773269] Started resource Zombies
+[ 201773487] loading data
+[ 201773705] Error running call reference function for resource Zombies: citizen:/scripting/lua/scheduler.lua:351: loot/server.lua:93: attempt to index a number value (local 'serverVars')
+[ 201773705] stack traceback:
+[ 201773705] 	loot/server.lua:93: in upvalue 'ref'
+[ 201773705] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[ 201773705] 	[C]: in function 'xpcall'
+[ 201773705] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[ 201773705] stack traceback:
+[ 201773705] 	[C]: in function 'error'
+[ 201773705] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[ 201773721] [ERROR] [MySQL] Check the error above, an error happens when executing the callback from the query : "SELECT `bandages`=@bandages, `cleanwater`, `cookedmeat`, `dirtywater`, `drinkitems`, `ducktape`, `emptybottles`, `enginekit`, `fooditems`, `gunpowder`, `rawmeat`, `scrapcloth`, `scrapmetal`, `woodlogs`, `woodmaterials`, `zblood`, `zcredits` FROM `crafting` WHERE identifier = @identifier {@identifier=steam:110000105ce25a9}"
+[ 201774641] Updating Weather to CLEAR for all players.
+[ 201804843] Stopping resource Zombies
+[ 201804859] Started resource Zombies
+[ 201805093] loading data
+[ 201805311] Error running call reference function for resource Zombies: citizen:/scripting/lua/scheduler.lua:351: loot/server.lua:93: attempt to index a number value (local 'serverVars')
+[ 201805311] stack traceback:
+[ 201805311] 	loot/server.lua:93: in upvalue 'ref'
+[ 201805311] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[ 201805311] 	[C]: in function 'xpcall'
+[ 201805311] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[ 201805311] stack traceback:
+[ 201805311] 	[C]: in function 'error'
+[ 201805311] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[ 201805327] [ERROR] [MySQL] Check the error above, an error happens when executing the callback from the query : "SELECT `bandages`, `cleanwater`, `cookedmeat`, `dirtywater`, `drinkitems`, `ducktape`, `emptybottles`, `enginekit`, `fooditems`, `gunpowder`, `rawmeat`, `scrapcloth`, `scrapmetal`, `woodlogs`, `woodmaterials`, `zblood`, `zcredits` FROM `crafting` WHERE identifier = @identifier {@identifier=steam:110000105ce25a9}"
+[ 201816247] Stopping resource Zombies
+[ 201816262] Started resource Zombies
+[ 201816496] loading data
+[ 201816684] 0
+[ 201816684] data loaded
+[ 201830287] Stopping resource Zombies
+[ 201830302] Started resource Zombies
+[ 201830536] loading data
+[ 201830739] nil
+[ 201830739] data loaded
+[ 201855559] Stopping resource Zombies
+[ 201855575] Started resource Zombies
+[ 201855777] loading data
+[ 201855980] nil
+[ 201855980] data loaded
+[ 201867821] Sending heartbeat to live-internal.fivem.net:30110
+[ 201896915] Stopping resource Zombies
+[ 201896931] Started resource Zombies
+[ 201897165] loading data
+[ 201897367] 0
+[ 201897367] nil
+[ 201897367] data loaded
+[ 201911251] Stopping resource Zombies
+[ 201911267] Started resource Zombies
+[ 201911501] loading data
+[ 201911704] 0
+[ 201911704] nil
+[ 201911704] data loaded
+[ 201971374] saving data
+[ 202031263] saving data
+[ 202047861] Sending heartbeat to live-internal.fivem.net:30110
+[ 202091121] saving data
+[ 202150978] saving data
+[ 202210836] saving data
+[ 202227918] Sending heartbeat to live-internal.fivem.net:30110
+[ 202270709] saving data
+[ 202330598] saving data
+[ 202331690] [SAVED] Cody196
+[ 202331690] [SAVED] All players
+[ 202338866] Stopping resource carspawns
+[ 202338866] Started resource carspawns
+[ 202339022] Stopping resource lootercamps
+[ 202339022] Started resource lootercamps
+[ 202339365] 
+[ 202339365] --------------------------------------------------------------------------
+[ 202339381] 
+[ 202339381] EasyAdmin (EasyAdmin) is outdated.
+[ 202339381] Current Version: 4.3
+[ 202339381] Your Version: 4.21
+[ 202339381] Please update it from https://github.com/Bluethefurry/EasyAdmin
+[ 202339381] 
+[ 202339381] Update Changelog:
+[ 202339381] This Update fixes various bugs, adds new features and improves the UI, it is recommended you upgrade ASAP
+[ 202339381] 
+[ 202339381] --------------------------------------------------------------------------
+[ 202378069] Updating Weather to OVERCAST for all players.
+[ 202390502] saving data
+[ 202407927] Sending heartbeat to live-internal.fivem.net:30110
+[ 202450422] saving data
+[ 202510264] saving data
+[ 202570137] saving data
+[ 202587953] Sending heartbeat to live-internal.fivem.net:30110
+[ 202613974] Stopping resource Zombies
+[ 202613989] Started resource Zombies
+[ 202614223] loading data
+[ 202614442] Error running call reference function for resource Zombies: citizen:/scripting/lua/scheduler.lua:351: loot/server.lua:93: attempt to index a nil value (field '?')
+[ 202614442] stack traceback:
+[ 202614442] 	loot/server.lua:93: in upvalue 'ref'
+[ 202614442] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[ 202614442] 	[C]: in function 'xpcall'
+[ 202614442] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[ 202614442] stack traceback:
+[ 202614442] 	[C]: in function 'error'
+[ 202614442] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[ 202614457] [ERROR] [MySQL] Check the error above, an error happens when executing the callback from the query : "SELECT * FROM crafting WHERE bandages = @bandages {@identifier=steam:110000105ce25a9}"
+[ 202648793] Stopping resource Zombies
+[ 202648809] Started resource Zombies
+[ 202649043] loading data
+[ 202649261] Error running call reference function for resource Zombies: citizen:/scripting/lua/scheduler.lua:351: loot/server.lua:93: attempt to index a nil value (field '?')
+[ 202649261] stack traceback:
+[ 202649261] 	loot/server.lua:93: in upvalue 'ref'
+[ 202649261] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[ 202649261] 	[C]: in function 'xpcall'
+[ 202649261] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[ 202649261] stack traceback:
+[ 202649261] 	[C]: in function 'error'
+[ 202649261] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[ 202649261] [ERROR] [MySQL] Check the error above, an error happens when executing the callback from the query : "SELECT * FROM crafting WHERE identifier = @identifier {@identifier=steam:110000105ce25a9}"
+[ 202668964] Stopping resource Zombies
+[ 202668979] Started resource Zombies
+[ 202669213] loading data
+[ 202669432] Error running call reference function for resource Zombies: citizen:/scripting/lua/scheduler.lua:351: loot/server.lua:93: attempt to index a nil value (field '?')
+[ 202669432] stack traceback:
+[ 202669432] 	loot/server.lua:93: in upvalue 'ref'
+[ 202669432] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[ 202669432] 	[C]: in function 'xpcall'
+[ 202669432] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[ 202669432] stack traceback:
+[ 202669432] 	[C]: in function 'error'
+[ 202669432] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[ 202669447] [ERROR] [MySQL] Check the error above, an error happens when executing the callback from the query : "SELECT bandages FROM crafting WHERE identifier = @identifier {@identifier=steam:110000105ce25a9}"
+[ 202729118] saving data
+[ 202767962] Sending heartbeat to live-internal.fivem.net:30110
+[ 202789038] saving data
+[ 202842359] Stopping resource Zombies
+[ 202842375] Started resource Zombies
+[ 202842562] loading data
+[ 202842780] Error running call reference function for resource Zombies: citizen:/scripting/lua/scheduler.lua:351: loot/server.lua:93: attempt to index a nil value (field '?')
+[ 202842780] stack traceback:
+[ 202842780] 	loot/server.lua:93: in upvalue 'ref'
+[ 202842780] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[ 202842780] 	[C]: in function 'xpcall'
+[ 202842780] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[ 202842780] stack traceback:
+[ 202842780] 	[C]: in function 'error'
+[ 202842780] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[ 202842796] [ERROR] [MySQL] Check the error above, an error happens when executing the callback from the query : "SELECT * FROM crafting {@identifier=steam:110000105ce25a9}"
+[ 202863575] Stopping resource Zombies
+[ 202863591] Started resource Zombies
+[ 202863825] loading data
+[ 202864043] [ERROR] [MySQL] An error happens on MySQL for query "SELECT * FROM crafting WHERE * {@identifier=steam:110000105ce25a9}": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*' at line 1
+[ 202923729] saving data
+[ 202931701] [SAVED] Cody196
+[ 202931701] [SAVED] All players
+[ 202948003] Sending heartbeat to live-internal.fivem.net:30110
+[ 202981465] Updating Weather to RAIN for all players.
+[ 202983618] saving data
+[ 203026690] Stopping resource Zombies
+[ 203026705] Started resource Zombies
+[ 203026939] loading data
+[ 203027158] Error running call reference function for resource Zombies: citizen:/scripting/lua/scheduler.lua:351: loot/server.lua:93: attempt to index a nil value (field '?')
+[ 203027158] stack traceback:
+[ 203027158] 	loot/server.lua:93: in upvalue 'ref'
+[ 203027158] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[ 203027158] 	[C]: in function 'xpcall'
+[ 203027158] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[ 203027158] stack traceback:
+[ 203027158] 	[C]: in function 'error'
+[ 203027158] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[ 203027173] [ERROR] [MySQL] Check the error above, an error happens when executing the callback from the query : "SELECT `bandages`, `cleanwater`, `cookedmeat`, `dirtywater`, `drinkitems`, `ducktape`, `emptybottles`, `enginekit`, `fooditems`, `gunpowder`, `rawmeat`, `scrapcloth`, `scrapmetal`, `woodlogs`, `woodmaterials`, `zblood`, `zcredits` FROM `crafting` WHERE identifier = @identifier {@identifier=steam:110000105ce25a9}"
+[ 203086813] saving data
+[ 203092288] Stopping resource Zombies
+[ 203092304] Started resource Zombies
+[ 203092538] loading data
+[ 203092756] [ERROR] [MySQL] An error happens on MySQL for query "SELECT * FROM crafting WHERE * {@identifier=steam:110000105ce25a9}": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*' at line 1
+[ 203120540] Stopping resource Zombies
+[ 203120556] Started resource Zombies
+[ 203120790] loading data
+[ 203121008] Error running call reference function for resource Zombies: citizen:/scripting/lua/scheduler.lua:351: loot/server.lua:93: attempt to index a nil value (field '?')
+[ 203121008] stack traceback:
+[ 203121008] 	loot/server.lua:93: in upvalue 'ref'
+[ 203121008] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[ 203121008] 	[C]: in function 'xpcall'
+[ 203121008] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[ 203121008] stack traceback:
+[ 203121008] 	[C]: in function 'error'
+[ 203121008] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[ 203121024] [ERROR] [MySQL] Check the error above, an error happens when executing the callback from the query : "SELECT `bandages`, `cleanwater`, `cookedmeat`, `dirtywater`, `drinkitems`, `ducktape`, `emptybottles`, `enginekit`, `fooditems`, `gunpowder`, `rawmeat`, `scrapcloth`, `scrapmetal`, `woodlogs`, `woodmaterials`, `zblood`, `zcredits` FROM `crafting` WHERE identifier = @identifier {@identifier=steam:110000105ce25a9}"
+[ 203128012] Sending heartbeat to live-internal.fivem.net:30110
+[ 203180710] saving data
+[ 203207994] Stopping resource Zombies
+[ 203208010] Started resource Zombies
+[ 203208244] loading data
+[ 203208478] Error running call reference function for resource Zombies: citizen:/scripting/lua/scheduler.lua:351: loot/server.lua:93: attempt to index a nil value (field '?')
+[ 203208478] stack traceback:
+[ 203208478] 	loot/server.lua:93: in upvalue 'ref'
+[ 203208478] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[ 203208478] 	[C]: in function 'xpcall'
+[ 203208478] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[ 203208478] stack traceback:
+[ 203208478] 	[C]: in function 'error'
+[ 203208478] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[ 203208478] [ERROR] [MySQL] Check the error above, an error happens when executing the callback from the query : "SELECT `bandages`, `cleanwater`, `cookedmeat`, `dirtywater`, `drinkitems`, `ducktape`, `emptybottles`, `enginekit`, `fooditems`, `gunpowder`, `rawmeat`, `scrapcloth`, `scrapmetal`, `woodlogs`, `woodmaterials`, `zblood`, `zcredits` FROM `crafting` WHERE identifier = @identifier {@identifier=steam:110000105ce25a9}"
+[ 203226777] Sending heartbeat to live-internal.fivem.net:30110
+[ 203227073] Player dropped: Cody196[SAVED] Cody196
+[ 203239054] Stopping resource lootercamps
+[ 203239070] Started resource lootercamps

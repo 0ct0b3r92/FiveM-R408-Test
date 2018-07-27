@@ -103,6 +103,16 @@ Citizen.CreateThread(function()
 	end
 end)
 
+-- Receives the new data
+Citizen.CreateThread(function()
+	while true do
+		Citizen.Wait(1000)
+		NewData()
+		print(bandages)
+		print(cleanWater)
+	end
+end)
+
 Citizen.CreateThread(function()
 	while true do
 		Citizen.Wait(10)
