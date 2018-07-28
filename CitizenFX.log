@@ -56074,3 +56074,972 @@
 [ 203227073] Player dropped: Cody196[SAVED] Cody196
 [ 203239054] Stopping resource lootercamps
 [ 203239070] Started resource lootercamps
+[  75012784] INFO: No channel links found in configuration file.
+[  75012987] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[  75013050] Found new resource addoncars in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//addoncars
+[  75013065] Found new resource AFKSystem in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//AFKSystem
+[  75013081] Found new resource AIStrikesV in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//AIStrikesV
+[  75013081] Found new resource Ambience in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Ambience
+[  75013096] Found new resource Animals in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Animals
+[  75013096] Found new resource anticheat in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//anticheat
+[  75013112] Found new resource armory in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//armory
+[  75013112] Found new resource async in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//async
+[  75013128] Found new resource AutoRestartResource in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//AutoRestartResource
+[  75013128] Found new resource bandits in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//bandits
+[  75013143] Found new resource binoculars in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//binoculars
+[  75013143] Found new resource camping in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//camping
+[  75013143] Found new resource carspawns in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//carspawns
+[  75013159] Found new resource carspawns - old in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//carspawns - old
+[  75013174] Found new resource chatforadmin in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//chatforadmin
+[  75013174] Found new resource clothing in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//clothing
+[  75013190] Found new resource coordsaver in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//coordsaver
+[  75013206] Found new resource corruptsnail in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//corruptsnail
+[  75013206] Found new resource cratedrop in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//cratedrop
+[  75013221] Found new resource crouch in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//crouch
+[  75013237] Found new resource cuff-handsup in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//cuff-handsup
+[  75013237] Found new resource debugmodule in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//debugmodule
+[  75013237] Found new resource EasyAdmin in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//EasyAdmin
+[  75013252] Found new resource EngineToggle in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//EngineToggle
+[  75013252] Found new resource entities in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//entities
+[  75013268] Found new resource environment in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//environment
+[  75013268] Found new resource esplugin_mysql in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esplugin_mysql
+[  75013284] Found new resource essentialmode in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//essentialmode
+[  75013284] Found new resource esx_addonaccount in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_addonaccount
+[  75013299] Found new resource esx_datastore in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_datastore
+[  75013299] Found new resource esx_garage in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_garage
+[  75013315] Found new resource esx_identity in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_identity
+[  75013315] Found new resource esx_menu_default in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_menu_default
+[  75013330] Found new resource esx_menu_dialog in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_menu_dialog
+[  75013330] Found new resource esx_menu_list in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_menu_list
+[  75013346] Found new resource esx_sit in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_sit
+[  75013346] Found new resource esx_skin in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_skin
+[  75013362] Found new resource esx_society in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_society
+[  75013362] Found new resource es_admin2 in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//es_admin2
+[  75013377] Found new resource es_extended in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//es_extended
+[  75013393] Found new resource es_extended - bak in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//es_extended - bak
+[  75013393] Found new resource factionchat in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//factionchat
+[  75013408] Found new resource factionchat - old in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//factionchat - old
+[  75013408] Found new resource fingerpoint in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//fingerpoint
+[  75013424] Found new resource Fireworks in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Fireworks
+[  75013424] Found new resource firingmode in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//firingmode
+[  75013440] Found new resource fishing in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//fishing
+[  75013440] Found new resource fivem in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//fivem
+[  75013455] Found new resource fivem-awesome1501 in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//fivem-awesome1501
+[  75013455] Found new resource fivem-map-hipster in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//fivem-map-hipster
+[  75013471] Found new resource fivem-map-skater in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//fivem-map-skater
+[  75013471] Found new resource FMODT in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//FMODT
+[  75013486] Found new resource freeforall in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//freeforall
+[  75013486] Found new resource frfuel in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//frfuel
+[  75013502] Found new resource gtaoscoreboard in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//gtaoscoreboard
+[  75013502] Found new resource guards in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//guards
+[  75013518] Found new resource hlabels in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//hlabels
+[  75013518] Found new resource Hordes in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Hordes
+[  75013533] Found new resource hummer in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//hummer
+[  75013533] Found new resource Independence in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Independence
+[  75013533] Found new resource information in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//information
+[  75013549] Found new resource instance in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//instance
+[  75013549] Found new resource k9 in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//k9
+[  75013564] Found new resource loadipl in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//loadipl
+[  75013564] Found new resource lootercamps in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//lootercamps
+[  75013580] Found new resource mapbuilder in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//mapbuilder
+[  75013580] Found new resource mapobjects in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//mapobjects
+[  75013580] Found new resource marauders in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//marauders
+[  75013596] Found new resource mellotrainer in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//mellotrainer
+[  75013611] Found new resource menu in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//menu
+[  75013611] Found new resource models in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//models
+[  75013627] Found new resource modelwhitelist in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//modelwhitelist
+[  75013627] Found new resource mychangelog in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//mychangelog
+[  75013627] Found new resource mysql-async in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//mysql-async
+[  75013642] Found new resource NativeUI in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//NativeUI
+[  75013642] Found new resource NGFGuards in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//NGFGuards
+[  75013658] Found new resource NPCLife in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//NPCLife
+[  75013658] Found new resource object-loader in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//object-loader
+[  75013674] Found new resource outfits in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//outfits
+[  75013674] Found new resource PersonalPet in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//PersonalPet
+[  75013689] Found new resource question_rp in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//question_rp
+[  75013689] Found new resource QuestSystem in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//QuestSystem
+[  75013705] Found new resource randomdrop in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//randomdrop
+[  75013705] Found new resource replyandreport in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//replyandreport
+[  75013720] Found new resource RideADeer in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//RideADeer
+[  75013736] Found new resource rolesFX in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//rolesFX
+[  75013736] Found new resource RPChat in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//RPChat
+[  75013736] Found new resource RPRevive in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//RPRevive
+[  75013752] Found new resource runcode in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//runcode
+[  75013752] Found new resource shitscript in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//shitscript
+[  75013767] Found new resource simpleinteractions in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//simpleinteractions
+[  75013783] Found new resource skinchanger in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//skinchanger
+[  75013783] Found new resource smartweather in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//smartweather
+[  75013798] Found new resource sound in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//sound
+[  75013814] Found new resource StopDespawn in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//StopDespawn
+[  75013814] Found new resource survival in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//survival
+[  75013830] Found new resource synn-loadscreen in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//synn-loadscreen
+[  75013830] Found new resource teams in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//teams
+[  75013845] Found new resource TeleportRequest in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//TeleportRequest
+[  75013845] Found new resource Transportation in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Transportation
+[  75013861] Found new resource tutorial in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//tutorial
+[  75013861] Found new resource UnionGuards in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//UnionGuards
+[  75013876] Found new resource UnionWorkers in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//UnionWorkers
+[  75013876] Found new resource vMenu in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//vMenu
+[  75013892] Found new resource vSync in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//vSync
+[  75013892] Found new resource vVoice in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//vVoice
+[  75013892] Found new resource waitforload in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//waitforload
+[  75013908] Found new resource ZombieRP in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//ZombieRP
+[  75013923] Found new resource Zombies in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Zombies
+[  75013923] Found new resource Zombies - bak in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Zombies - bak
+[  75013939] Found new resource ZSRMap in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//ZSRMap
+[  75013954] Found new resource ZSRProps in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//ZSRProps
+[  75013954] Found new resource race in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[gamemodes]/race
+[  75013970] Found new resource race-test in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[gamemodes]/race-test
+[  75013970] Found new resource channelfeed in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[gameplay]/channelfeed
+[  75013986] Found new resource irc in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[gameplay]/irc
+[  75014001] Found new resource obituary in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[gameplay]/obituary
+[  75014001] Found new resource obituary-deaths in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[gameplay]/obituary-deaths
+[  75014017] Found new resource playernames in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[gameplay]/playernames
+[  75014033] Found new resource mapmanager in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[managers]/mapmanager
+[  75014048] Found new resource baseevents in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[system]/baseevents
+[  75014048] Found new resource chat in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[system]/chat
+[  75014064] Found new resource hardcap in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[system]/hardcap
+[  75014064] Found new resource rconlog in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[system]/rconlog
+[  75014079] Found new resource scoreboard in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[system]/scoreboard
+[  75014079] Found new resource sessionmanager in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[system]/sessionmanager
+[  75014095] Found new resource spawnmanager in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[system]/spawnmanager
+[  75014095] Found new resource betaguns in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[test]/betaguns
+[  75014111] Found new resource gameInit in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[test]/gameInit
+[  75014111] Found new resource keks in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[test]/keks
+[  75014157] Started resource sessionmanager
+[  75014235] Started resource mapmanager
+[  75014251] Started resource chat
+[  75014267] Started resource spawnmanager
+[  75014267] Started gametype Freeroam
+[  75014267] Started resource fivem
+[  75014282] Started resource hardcap
+[  75014282] Started resource rconlog
+[  75014859] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1121631119
+[  75014875] Instantiated instance of script MySQLAsync.MySQLAsync.
+[  75014922] Started resource mysql-async
+[  75014937] Started resource esplugin_mysql
+[  75014969] Started resource essentialmode
+[  75015000] Started resource es_admin2
+[  75015015] Started resource async
+[  75015031] Started resource baseevents
+[  75015062] Error loading script server/main.lua in resource es_extended: server/main.lua:605: attempt to call a nil value (field 'StartPayCheck')
+[  75015062] stack traceback:
+[  75015062] 	server/main.lua:605: in main chunk
+[  75015062] Failed to load script server/main.lua.
+[  75015109] Started resource es_extended
+[  75015109] Started resource instance
+[  75015125] Started resource esx_addonaccount
+[  75015140] Started resource esx_datastore
+[  75015156] Started resource esx_menu_default
+[  75015171] Started resource esx_menu_dialog
+[  75015187] Started resource esx_menu_list
+[  75015203] Started resource esx_society
+[  75015218] Started resource menu
+[  75015234] Started resource AFKSystem
+[  75015249] Started resource Ambience
+[  75015265] Started resource anticheat
+[  75015281] Started resource AutoRestartResource
+[  75015281] Started resource binoculars
+[  75015296] Started resource carspawns
+[  75015296] Started resource chatforadmin
+[  75015327] Started resource clothing
+[  75015327] Started resource coordsaver
+[  75015343] Started resource cratedrop
+[  75015343] Started resource crouch
+[  75015359] Started resource cuff-handsup
+[  75015374] Started resource NativeUI
+[  75015608] Started resource EasyAdmin
+[  75015624] Started resource EngineToggle
+[  75015624] Started resource entities
+[  75015639] Started resource environment
+[  75015639] Started resource fishing
+[  75015639] Started resource frfuel
+[  75015655] Started resource gtaoscoreboard
+[  75015655] Started resource guards
+[  75015671] Started resource hlabels
+[  75015702] Started resource Hordes
+[  75016263] Started resource hummer
+[  75016295] Started resource information
+[  75016310] Started resource lootercamps
+[  75016373] Started resource mapobjects
+[  75016373] Started resource marauders
+[  75020694] Started resource models
+[  75020709] Started resource mychangelog
+[  75020709] ^3Couldn't find resource NewLoot.^7
+[  75020709] Started resource NGFGuards
+[  75020725] Started resource randomdrop
+[  75020741] Started resource replyandreport
+[  75020756] Started resource RPChat
+[  75020756] Started resource RPRevive
+[  75020756] Started resource simpleinteractions
+[  75020772] Started resource smartweather
+[  75021755] Started resource sound
+[  75021895] Started resource synn-loadscreen
+[  75021895] Started resource survival
+[  75021911] Started resource Transportation
+[  75022020] Started resource tutorial
+[  75022020] Started resource UnionGuards
+[  75022020] Started resource UnionWorkers
+[  75022035] Started resource vSync
+[  75022051] Started resource vVoice
+[  75022098] Started resource Zombies
+[  75022113] Started map ZombieRP
+[  75022113] Started resource ZombieRP
+[  75022113] map ZombieRP
+[  75022113] Authenticating server license key...
+[  75022675] Server license key authentication succeeded. Welcome!
+[  75022722] Sending heartbeat to live-internal.fivem.net:30110
+[  75022722] 
+[  75022722] Current version: 5.0.1
+[  75022722] Updater version: 5.0.2
+[  75022722] 
+[  75022737] 
+[  75022737] Version mismatch, you are currently not using the newest stable version of essentialmode. Please update
+[  75022737] 
+[  75022737] [Universal Menu] Newer Version 2.4.2 is available!
+[  75022737] [Universal Menu] Version 2.4 loaded!
+[  75022940] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1121631119
+[  75023096] hitch warning: frame time of 369 milliseconds
+[  75023096] 
+[  75023096] --------------------------------------------------------------------------
+[  75023096] 
+[  75023096] EasyAdmin (EasyAdmin) is outdated.
+[  75023096] Current Version: 4.3
+[  75023096] Your Version: 4.21
+[  75023096] Please update it from https://github.com/Bluethefurry/EasyAdmin
+[  75023096] 
+[  75023112] Update Changelog:
+[  75023112] This Update fixes various bugs, adds new features and improves the UI, it is recommended you upgrade ASAP
+[  75023112] 
+[  75023112] --------------------------------------------------------------------------
+[  75023112] 
+[  75023112] 
+[  75023112] ##############
+[  75023112] ## EngineToggle
+[  75023112] ##
+[  75023112] ## Current Version: 2.3.0
+[  75023112] ## Newest Version: 2.3.0
+[  75023112] ##
+[  75023112] ## Up to date!
+[  75023112] ##############
+[  75023112] 
+[  75023112] 
+[  75023174] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1121631119
+[  75023377] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1121631119
+[  75023471] hitch warning: frame time of 387 milliseconds
+[  75024781] Stopping resource sessionmanager
+[  75024781] Started resource sessionmanager
+[  75202747] Sending heartbeat to live-internal.fivem.net:30110
+[  75382741] Sending heartbeat to live-internal.fivem.net:30110
+[  75562766] Sending heartbeat to live-internal.fivem.net:30110
+[  75615089] [SAVED] All players
+[  75625728] Updating Weather to SMOG for all players.
+[  75742822] Sending heartbeat to live-internal.fivem.net:30110
+[  75922738] Stopping resource lootercamps
+[  75922738] Started resource lootercamps
+[  75922832] Sending heartbeat to live-internal.fivem.net:30110
+[  76102841] Sending heartbeat to live-internal.fivem.net:30110
+[  76215084] [SAVED] All players
+[  76228672] Updating Weather to CLOUDS for all players.
+[  76282898] Sending heartbeat to live-internal.fivem.net:30110
+[  76462939] Sending heartbeat to live-internal.fivem.net:30110
+[  76866544] INFO: No channel links found in configuration file.
+[  76866607] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[  76866669] Found new resource addoncars in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//addoncars
+[  76866669] Found new resource AFKSystem in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//AFKSystem
+[  76866685] Found new resource AIStrikesV in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//AIStrikesV
+[  76866685] Found new resource Ambience in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Ambience
+[  76866700] Found new resource Animals in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Animals
+[  76866716] Found new resource anticheat in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//anticheat
+[  76866716] Found new resource armory in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//armory
+[  76866716] Found new resource async in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//async
+[  76866732] Found new resource AutoRestartResource in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//AutoRestartResource
+[  76866747] Found new resource bandits in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//bandits
+[  76866747] Found new resource binoculars in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//binoculars
+[  76866763] Found new resource camping in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//camping
+[  76866763] Found new resource carspawns in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//carspawns
+[  76866778] Found new resource carspawns - old in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//carspawns - old
+[  76866794] Found new resource chatforadmin in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//chatforadmin
+[  76866794] Found new resource clothing in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//clothing
+[  76866794] Found new resource coordsaver in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//coordsaver
+[  76866810] Found new resource corruptsnail in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//corruptsnail
+[  76866810] Found new resource cratedrop in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//cratedrop
+[  76866825] Found new resource crouch in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//crouch
+[  76866825] Found new resource cuff-handsup in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//cuff-handsup
+[  76866841] Found new resource debugmodule in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//debugmodule
+[  76866841] Found new resource EasyAdmin in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//EasyAdmin
+[  76866841] Found new resource EngineToggle in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//EngineToggle
+[  76866856] Found new resource entities in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//entities
+[  76866872] Found new resource environment in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//environment
+[  76866872] Found new resource esplugin_mysql in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esplugin_mysql
+[  76866888] Found new resource essentialmode in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//essentialmode
+[  76866888] Found new resource esx_addonaccount in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_addonaccount
+[  76866919] Found new resource esx_datastore in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_datastore
+[  76866919] Found new resource esx_garage in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_garage
+[  76866934] Found new resource esx_identity in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_identity
+[  76866934] Found new resource esx_menu_default in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_menu_default
+[  76866934] Found new resource esx_menu_dialog in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_menu_dialog
+[  76866950] Found new resource esx_menu_list in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_menu_list
+[  76866950] Found new resource esx_sit in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_sit
+[  76866966] Found new resource esx_skin in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_skin
+[  76866966] Found new resource esx_society in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_society
+[  76866966] Found new resource es_admin2 in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//es_admin2
+[  76866981] Found new resource es_extended in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//es_extended
+[  76866997] Found new resource es_extended - bak in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//es_extended - bak
+[  76866997] Found new resource factionchat in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//factionchat
+[  76867012] Found new resource factionchat - old in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//factionchat - old
+[  76867012] Found new resource fingerpoint in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//fingerpoint
+[  76867028] Found new resource Fireworks in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Fireworks
+[  76867044] Found new resource firingmode in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//firingmode
+[  76867059] Found new resource fishing in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//fishing
+[  76867059] Found new resource fivem in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//fivem
+[  76867090] Found new resource fivem-awesome1501 in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//fivem-awesome1501
+[  76867106] Found new resource fivem-map-hipster in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//fivem-map-hipster
+[  76867106] Found new resource fivem-map-skater in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//fivem-map-skater
+[  76867122] Found new resource FMODT in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//FMODT
+[  76867137] Found new resource freeforall in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//freeforall
+[  76867153] Found new resource frfuel in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//frfuel
+[  76867153] Found new resource gtaoscoreboard in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//gtaoscoreboard
+[  76867184] Found new resource guards in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//guards
+[  76867200] Found new resource hlabels in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//hlabels
+[  76867200] Found new resource Hordes in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Hordes
+[  76867215] Found new resource hummer in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//hummer
+[  76867215] Found new resource Independence in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Independence
+[  76867215] Found new resource information in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//information
+[  76867231] Found new resource instance in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//instance
+[  76867231] Found new resource k9 in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//k9
+[  76867246] Found new resource loadipl in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//loadipl
+[  76867246] Found new resource lootercamps in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//lootercamps
+[  76867262] Found new resource mapbuilder in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//mapbuilder
+[  76867262] Found new resource mapobjects in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//mapobjects
+[  76867262] Found new resource marauders in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//marauders
+[  76867278] Found new resource mellotrainer in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//mellotrainer
+[  76867278] Found new resource menu in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//menu
+[  76867293] Found new resource models in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//models
+[  76867293] Found new resource modelwhitelist in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//modelwhitelist
+[  76867309] Found new resource mychangelog in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//mychangelog
+[  76867309] Found new resource mysql-async in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//mysql-async
+[  76867309] Found new resource NativeUI in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//NativeUI
+[  76867324] Found new resource NGFGuards in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//NGFGuards
+[  76867324] Found new resource NPCLife in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//NPCLife
+[  76867340] Found new resource object-loader in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//object-loader
+[  76867340] Found new resource outfits in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//outfits
+[  76867356] Found new resource PersonalPet in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//PersonalPet
+[  76867356] Found new resource question_rp in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//question_rp
+[  76867371] Found new resource QuestSystem in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//QuestSystem
+[  76867371] Found new resource randomdrop in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//randomdrop
+[  76867387] Found new resource replyandreport in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//replyandreport
+[  76867387] Found new resource RideADeer in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//RideADeer
+[  76867402] Found new resource rolesFX in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//rolesFX
+[  76867402] Found new resource RPChat in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//RPChat
+[  76867418] Found new resource RPRevive in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//RPRevive
+[  76867434] Found new resource runcode in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//runcode
+[  76867449] Found new resource shitscript in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//shitscript
+[  76867449] Found new resource simpleinteractions in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//simpleinteractions
+[  76867465] Found new resource skinchanger in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//skinchanger
+[  76867480] Found new resource smartweather in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//smartweather
+[  76867480] Found new resource sound in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//sound
+[  76867496] Found new resource StopDespawn in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//StopDespawn
+[  76867512] Found new resource survival in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//survival
+[  76867512] Found new resource synn-loadscreen in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//synn-loadscreen
+[  76867512] Found new resource teams in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//teams
+[  76867527] Found new resource TeleportRequest in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//TeleportRequest
+[  76867543] Found new resource Transportation in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Transportation
+[  76867543] Found new resource tutorial in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//tutorial
+[  76867543] Found new resource UnionGuards in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//UnionGuards
+[  76867574] Found new resource UnionWorkers in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//UnionWorkers
+[  76867574] Found new resource vMenu in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//vMenu
+[  76867590] Found new resource vSync in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//vSync
+[  76867590] Found new resource vVoice in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//vVoice
+[  76867590] Found new resource waitforload in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//waitforload
+[  76867605] Found new resource ZombieRP in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//ZombieRP
+[  76867621] Found new resource Zombies in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Zombies
+[  76867621] Found new resource Zombies - bak in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Zombies - bak
+[  76867636] Found new resource ZSRMap in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//ZSRMap
+[  76867636] Found new resource ZSRProps in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//ZSRProps
+[  76867636] Found new resource race in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[gamemodes]/race
+[  76867668] Found new resource race-test in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[gamemodes]/race-test
+[  76867683] Found new resource channelfeed in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[gameplay]/channelfeed
+[  76867683] Found new resource irc in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[gameplay]/irc
+[  76867683] Found new resource obituary in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[gameplay]/obituary
+[  76867714] Found new resource obituary-deaths in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[gameplay]/obituary-deaths
+[  76867714] Found new resource playernames in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[gameplay]/playernames
+[  76867730] Found new resource mapmanager in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[managers]/mapmanager
+[  76867746] Found new resource baseevents in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[system]/baseevents
+[  76867746] Found new resource chat in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[system]/chat
+[  76867761] Found new resource hardcap in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[system]/hardcap
+[  76867761] Found new resource rconlog in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[system]/rconlog
+[  76867777] Found new resource scoreboard in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[system]/scoreboard
+[  76867792] Found new resource sessionmanager in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[system]/sessionmanager
+[  76867808] Found new resource spawnmanager in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[system]/spawnmanager
+[  76867824] Found new resource betaguns in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[test]/betaguns
+[  76867824] Found new resource gameInit in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[test]/gameInit
+[  76867839] Found new resource keks in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[test]/keks
+[  76867886] Started resource sessionmanager
+[  76867902] Started resource mapmanager
+[  76867902] Started resource chat
+[  76867917] Started resource spawnmanager
+[  76867917] Started gametype Freeroam
+[  76867917] Started resource fivem
+[  76867917] Started resource hardcap
+[  76867933] Started resource rconlog
+[  76868572] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_673423587
+[  76868588] Instantiated instance of script MySQLAsync.MySQLAsync.
+[  76868635] Started resource mysql-async
+[  76868635] Started resource esplugin_mysql
+[  76868650] Started resource essentialmode
+[  76868697] Started resource es_admin2
+[  76868713] Started resource async
+[  76868728] Started resource baseevents
+[  76868744] Error loading script server/main.lua in resource es_extended: server/main.lua:605: attempt to call a nil value (field 'StartPayCheck')
+[  76868744] stack traceback:
+[  76868744] 	server/main.lua:605: in main chunk
+[  76868744] Failed to load script server/main.lua.
+[  76868775] Started resource es_extended
+[  76868791] Started resource instance
+[  76868806] Started resource esx_addonaccount
+[  76868822] Started resource esx_datastore
+[  76868838] Started resource esx_menu_default
+[  76868838] Started resource esx_menu_dialog
+[  76868853] Started resource esx_menu_list
+[  76868869] Started resource esx_society
+[  76868884] Started resource menu
+[  76868884] Started resource AFKSystem
+[  76868900] Started resource Ambience
+[  76868916] Started resource anticheat
+[  76868916] Started resource AutoRestartResource
+[  76868931] Started resource binoculars
+[  76868931] Started resource carspawns
+[  76868931] Started resource chatforadmin
+[  76868947] Started resource clothing
+[  76868962] Started resource coordsaver
+[  76868962] Started resource cratedrop
+[  76868978] Started resource crouch
+[  76868978] Started resource cuff-handsup
+[  76868994] Started resource NativeUI
+[  76869103] Started resource EasyAdmin
+[  76869103] Started resource EngineToggle
+[  76869118] Started resource entities
+[  76869118] Started resource environment
+[  76869118] Started resource fishing
+[  76869134] Started resource frfuel
+[  76869134] Started resource gtaoscoreboard
+[  76869150] Started resource guards
+[  76869150] Started resource hlabels
+[  76869165] Started resource Hordes
+[  76869680] Started resource hummer
+[  76869696] Started resource information
+[  76869696] Started resource lootercamps
+[  76869742] Started resource mapobjects
+[  76869742] Started resource marauders
+[  76873564] Started resource models
+[  76873580] Started resource mychangelog
+[  76873580] ^3Couldn't find resource NewLoot.^7
+[  76873580] Started resource NGFGuards
+[  76873596] Started resource randomdrop
+[  76873596] Started resource replyandreport
+[  76873611] Started resource RPChat
+[  76873611] Started resource RPRevive
+[  76873627] Started resource simpleinteractions
+[  76873627] Started resource smartweather
+[  76874235] Started resource sound
+[  76874313] Started resource synn-loadscreen
+[  76874313] Started resource survival
+[  76874313] Started resource Transportation
+[  76874376] Started resource tutorial
+[  76874376] Started resource UnionGuards
+[  76874391] Started resource UnionWorkers
+[  76874391] Started resource vSync
+[  76874407] Started resource vVoice
+[  76874422] Started resource Zombies
+[  76874438] Started map ZombieRP
+[  76874438] Started resource ZombieRP
+[  76874438] map ZombieRP
+[  76874438] Authenticating server license key...
+[  76875000] Server license key authentication succeeded. Welcome!
+[  76875062] Sending heartbeat to live-internal.fivem.net:30110
+[  76875062] 
+[  76875062] Current version: 5.0.1
+[  76875062] Updater version: 5.0.2
+[  76875062] 
+[  76875078] 
+[  76875078] Version mismatch, you are currently not using the newest stable version of essentialmode. Please update
+[  76875078] 
+[  76875078] [Universal Menu] Newer Version 2.4.2 is available!
+[  76875078] [Universal Menu] Version 2.4 loaded!
+[  76875218] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_673423587
+[  76875327] hitch warning: frame time of 271 milliseconds
+[  76875343] 
+[  76875343] --------------------------------------------------------------------------
+[  76875343] 
+[  76875343] EasyAdmin (EasyAdmin) is outdated.
+[  76875343] Current Version: 4.3
+[  76875343] Your Version: 4.21
+[  76875343] Please update it from https://github.com/Bluethefurry/EasyAdmin
+[  76875343] 
+[  76875343] Update Changelog:
+[  76875343] This Update fixes various bugs, adds new features and improves the UI, it is recommended you upgrade ASAP
+[  76875358] 
+[  76875358] --------------------------------------------------------------------------
+[  76875358] 
+[  76875358] 
+[  76875358] ##############
+[  76875358] ## EngineToggle
+[  76875358] ##
+[  76875358] ## Current Version: 2.3.0
+[  76875358] ## Newest Version: 2.3.0
+[  76875358] ##
+[  76875358] ## Up to date!
+[  76875358] ##############
+[  76875358] 
+[  76875358] 
+[  76875405] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_673423587
+[  76875561] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_673423587
+[  76875655] hitch warning: frame time of 321 milliseconds
+[  76877059] Stopping resource sessionmanager
+[  76877074] Started resource sessionmanager
+[  77020486] Connecting: Cody196
+[  77024558] Sending heartbeat to live-internal.fivem.net:30110
+[  77115740] loading data
+[  77116052] Error running call reference function for resource Zombies: citizen:/scripting/lua/scheduler.lua:351: loot/server.lua:93: attempt to index a nil value (field '?')
+[  77116052] stack traceback:
+[  77116052] 	loot/server.lua:93: in upvalue 'ref'
+[  77116052] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[  77116052] 	[C]: in function 'xpcall'
+[  77116068] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[  77116068] stack traceback:
+[  77116068] 	[C]: in function 'error'
+[  77116068] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[  77116084] [ERROR] [MySQL] Check the error above, an error happens when executing the callback from the query : "SELECT `bandages`, `cleanwater`, `cookedmeat`, `dirtywater`, `drinkitems`, `ducktape`, `emptybottles`, `enginekit`, `fooditems`, `gunpowder`, `rawmeat`, `scrapcloth`, `scrapmetal`, `woodlogs`, `woodmaterials`, `zblood`, `zcredits` FROM `crafting` WHERE identifier = @identifier {@identifier=steam:110000105ce25a9}"
+[  77118096] nil	~=	1
+[  77119516] Syncing weather for: Cody196
+[  77132308] An admin joined
+[  77132308] steam:110000105ce25a9
+[  77132308] A donator joined
+[  77132308] loading data
+[  77132308] An admin joined
+[  77132464] Error running call reference function for resource Zombies: citizen:/scripting/lua/scheduler.lua:351: loot/server.lua:93: attempt to index a nil value (field '?')
+[  77132464] stack traceback:
+[  77132464] 	loot/server.lua:93: in upvalue 'ref'
+[  77132464] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[  77132464] 	[C]: in function 'xpcall'
+[  77132464] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[  77132464] stack traceback:
+[  77132464] 	[C]: in function 'error'
+[  77132464] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[  77132479] [ERROR] [MySQL] Check the error above, an error happens when executing the callback from the query : "SELECT `bandages`, `cleanwater`, `cookedmeat`, `dirtywater`, `drinkitems`, `ducktape`, `emptybottles`, `enginekit`, `fooditems`, `gunpowder`, `rawmeat`, `scrapcloth`, `scrapmetal`, `woodlogs`, `woodmaterials`, `zblood`, `zcredits` FROM `crafting` WHERE identifier = @identifier {@identifier=steam:110000105ce25a9}"
+[  77201853] saving data
+[  77204567] Sending heartbeat to live-internal.fivem.net:30110
+[  77262132] saving data
+[  77322941] saving data
+[  77382861] saving data
+[  77384624] Sending heartbeat to live-internal.fivem.net:30110
+[  77442781] saving data
+[  77469114] [SAVED] Cody196
+[  77469114] [SAVED] All players
+[  77478146] Updating Weather to CLEARING for all players.
+[  77502701] saving data
+[  77562605] saving data
+[  77564664] Sending heartbeat to live-internal.fivem.net:30110
+[  77622494] saving data
+[  77682398] saving data
+[  77742771] saving data
+[  77744674] Sending heartbeat to live-internal.fivem.net:30110
+[  77775079] Stopping resource lootercamps
+[  77775094] Started resource lootercamps
+[  77803143] saving data
+[  77863297] saving data
+[  77890551] Connecting: Gamer1
+[  77892875] Sending heartbeat to live-internal.fivem.net:30110
+[  77923389] saving data
+[  77937881] loading data
+[  77938209] Error running call reference function for resource Zombies: citizen:/scripting/lua/scheduler.lua:351: loot/server.lua:93: attempt to index a nil value (field '?')
+[  77938209] stack traceback:
+[  77938209] 	loot/server.lua:93: in upvalue 'ref'
+[  77938209] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[  77938209] 	[C]: in function 'xpcall'
+[  77938209] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[  77938209] stack traceback:
+[  77938209] 	[C]: in function 'error'
+[  77938209] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[  77938224] [ERROR] [MySQL] Check the error above, an error happens when executing the callback from the query : "SELECT `bandages`, `cleanwater`, `cookedmeat`, `dirtywater`, `drinkitems`, `ducktape`, `emptybottles`, `enginekit`, `fooditems`, `gunpowder`, `rawmeat`, `scrapcloth`, `scrapmetal`, `woodlogs`, `woodmaterials`, `zblood`, `zcredits` FROM `crafting` WHERE identifier = @identifier {@identifier=steam:11000011412cfa2}"
+[  77940003] Syncing weather for: Gamer1
+[  77943606] An admin joined
+[  77943606] steam:11000011412cfa2
+[  77943606] loading data
+[  77943606] An admin joined
+[  77943669] Error running call reference function for resource Zombies: citizen:/scripting/lua/scheduler.lua:351: loot/server.lua:93: attempt to index a nil value (field '?')
+[  77943684] stack traceback:
+[  77943684] 	loot/server.lua:93: in upvalue 'ref'
+[  77943684] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[  77943684] 	[C]: in function 'xpcall'
+[  77943684] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[  77943684] stack traceback:
+[  77943684] 	[C]: in function 'error'
+[  77943684] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[  77943684] [ERROR] [MySQL] Check the error above, an error happens when executing the callback from the query : "SELECT `bandages`, `cleanwater`, `cookedmeat`, `dirtywater`, `drinkitems`, `ducktape`, `emptybottles`, `enginekit`, `fooditems`, `gunpowder`, `rawmeat`, `scrapcloth`, `scrapmetal`, `woodlogs`, `woodmaterials`, `zblood`, `zcredits` FROM `crafting` WHERE identifier = @identifier {@identifier=steam:11000011412cfa2}"
+[  77983980] saving data
+[  78000141] saving data
+[  78001108] Cody196: barrracks
+[  78045428] saving data
+[  78060061] saving data
+[  78069140] [SAVED] Cody196
+[  78069140] [SAVED] Gamer1
+[  78069140] [SAVED] All players
+[  78072900] Sending heartbeat to live-internal.fivem.net:30110
+[  78081480] Updating Weather to CLOUDS for all players.
+[  78105972] saving data
+[  78120480] saving data
+[  78167234] saving data
+[  78180338] saving data
+[  78227606] saving data
+[  78240211] saving data
+[  78252910] Sending heartbeat to live-internal.fivem.net:30110
+[  78287620] saving data
+[  78300116] saving data
+[  78305716] Stopping resource entities
+[  78305716] Started resource entities
+[  78348164] saving data
+[  78361018] saving data
+[  78408271] saving data
+[  78420970] saving data
+[  78432950] Sending heartbeat to live-internal.fivem.net:30110
+[  78468222] saving data
+[  78480827] saving data
+[  78528111] saving data
+[  78540763] saving data
+[  78588000] saving data
+[  78600636] saving data
+[  78612976] Sending heartbeat to live-internal.fivem.net:30110
+[  78648013] saving data
+[  78660556] saving data
+[  78669183] [SAVED] Cody196
+[  78669183] [SAVED] Gamer1
+[  78669183] [SAVED] All players
+[  78675111] Stopping resource carspawns
+[  78675111] Started resource carspawns
+[  78675111] Stopping resource lootercamps
+[  78675126] Started resource lootercamps
+[  78684845] Updating Weather to RAIN for all players.
+[  78708557] saving data
+[  78720460] saving data
+[  78769086] saving data
+[  78780380] saving data
+[  78793032] Sending heartbeat to live-internal.fivem.net:30110
+[  78798242] Sending heartbeat to live-internal.fivem.net:30110
+[  78798539] Player dropped: Gamer1[SAVED] Gamer1
+[  78821128] Sending heartbeat to live-internal.fivem.net:30110
+[  78821424] Player dropped: Cody196[SAVED] Cody196
+[  78959547] INFO: No channel links found in configuration file.
+[  78959594] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[  78959641] Found new resource addoncars in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//addoncars
+[  78959641] Found new resource AFKSystem in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//AFKSystem
+[  78959657] Found new resource AIStrikesV in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//AIStrikesV
+[  78959657] Found new resource Ambience in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Ambience
+[  78959657] Found new resource Animals in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Animals
+[  78959672] Found new resource anticheat in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//anticheat
+[  78959672] Found new resource armory in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//armory
+[  78959688] Found new resource async in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//async
+[  78959688] Found new resource AutoRestartResource in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//AutoRestartResource
+[  78959688] Found new resource bandits in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//bandits
+[  78959703] Found new resource binoculars in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//binoculars
+[  78959703] Found new resource camping in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//camping
+[  78959719] Found new resource carspawns in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//carspawns
+[  78959719] Found new resource carspawns - old in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//carspawns - old
+[  78959735] Found new resource chatforadmin in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//chatforadmin
+[  78959735] Found new resource clothing in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//clothing
+[  78959750] Found new resource coordsaver in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//coordsaver
+[  78959750] Found new resource corruptsnail in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//corruptsnail
+[  78959766] Found new resource cratedrop in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//cratedrop
+[  78959781] Found new resource crouch in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//crouch
+[  78959781] Found new resource cuff-handsup in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//cuff-handsup
+[  78959797] Found new resource debugmodule in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//debugmodule
+[  78959813] Found new resource EasyAdmin in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//EasyAdmin
+[  78959813] Found new resource EngineToggle in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//EngineToggle
+[  78959828] Found new resource entities in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//entities
+[  78959828] Found new resource environment in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//environment
+[  78959844] Found new resource esplugin_mysql in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esplugin_mysql
+[  78959844] Found new resource essentialmode in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//essentialmode
+[  78959859] Found new resource esx_addonaccount in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_addonaccount
+[  78959859] Found new resource esx_datastore in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_datastore
+[  78959875] Found new resource esx_garage in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_garage
+[  78959891] Found new resource esx_identity in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_identity
+[  78959891] Found new resource esx_menu_default in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_menu_default
+[  78959906] Found new resource esx_menu_dialog in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_menu_dialog
+[  78959906] Found new resource esx_menu_list in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_menu_list
+[  78959922] Found new resource esx_sit in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_sit
+[  78959937] Found new resource esx_skin in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_skin
+[  78959937] Found new resource esx_society in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//esx_society
+[  78959953] Found new resource es_admin2 in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//es_admin2
+[  78959953] Found new resource es_extended in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//es_extended
+[  78959953] Found new resource es_extended - bak in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//es_extended - bak
+[  78959969] Found new resource factionchat in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//factionchat
+[  78959984] Found new resource factionchat - old in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//factionchat - old
+[  78960000] Found new resource fingerpoint in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//fingerpoint
+[  78960000] Found new resource Fireworks in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Fireworks
+[  78960015] Found new resource firingmode in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//firingmode
+[  78960015] Found new resource fishing in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//fishing
+[  78960031] Found new resource fivem in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//fivem
+[  78960031] Found new resource fivem-awesome1501 in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//fivem-awesome1501
+[  78960031] Found new resource fivem-map-hipster in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//fivem-map-hipster
+[  78960047] Found new resource fivem-map-skater in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//fivem-map-skater
+[  78960047] Found new resource FMODT in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//FMODT
+[  78960062] Found new resource freeforall in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//freeforall
+[  78960078] Found new resource frfuel in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//frfuel
+[  78960078] Found new resource gtaoscoreboard in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//gtaoscoreboard
+[  78960093] Found new resource guards in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//guards
+[  78960093] Found new resource hlabels in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//hlabels
+[  78960109] Found new resource Hordes in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Hordes
+[  78960109] Found new resource hummer in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//hummer
+[  78960125] Found new resource Independence in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Independence
+[  78960125] Found new resource information in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//information
+[  78960140] Found new resource instance in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//instance
+[  78960140] Found new resource k9 in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//k9
+[  78960156] Found new resource loadipl in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//loadipl
+[  78960171] Found new resource lootercamps in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//lootercamps
+[  78960171] Found new resource mapbuilder in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//mapbuilder
+[  78960187] Found new resource mapobjects in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//mapobjects
+[  78960187] Found new resource marauders in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//marauders
+[  78960203] Found new resource mellotrainer in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//mellotrainer
+[  78960203] Found new resource menu in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//menu
+[  78960218] Found new resource models in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//models
+[  78960234] Found new resource modelwhitelist in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//modelwhitelist
+[  78960234] Found new resource mychangelog in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//mychangelog
+[  78960249] Found new resource mysql-async in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//mysql-async
+[  78960249] Found new resource NativeUI in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//NativeUI
+[  78960265] Found new resource NGFGuards in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//NGFGuards
+[  78960265] Found new resource NPCLife in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//NPCLife
+[  78960281] Found new resource object-loader in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//object-loader
+[  78960281] Found new resource outfits in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//outfits
+[  78960296] Found new resource PersonalPet in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//PersonalPet
+[  78960296] Found new resource question_rp in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//question_rp
+[  78960312] Found new resource QuestSystem in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//QuestSystem
+[  78960312] Found new resource randomdrop in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//randomdrop
+[  78960327] Found new resource replyandreport in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//replyandreport
+[  78960327] Found new resource RideADeer in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//RideADeer
+[  78960343] Found new resource rolesFX in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//rolesFX
+[  78960343] Found new resource RPChat in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//RPChat
+[  78960359] Found new resource RPRevive in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//RPRevive
+[  78960374] Found new resource runcode in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//runcode
+[  78960374] Found new resource shitscript in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//shitscript
+[  78960390] Found new resource simpleinteractions in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//simpleinteractions
+[  78960405] Found new resource skinchanger in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//skinchanger
+[  78960405] Found new resource smartweather in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//smartweather
+[  78960421] Found new resource sound in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//sound
+[  78960421] Found new resource StopDespawn in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//StopDespawn
+[  78960437] Found new resource survival in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//survival
+[  78960452] Found new resource synn-loadscreen in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//synn-loadscreen
+[  78960452] Found new resource teams in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//teams
+[  78960468] Found new resource TeleportRequest in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//TeleportRequest
+[  78960483] Found new resource Transportation in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Transportation
+[  78960499] Found new resource tutorial in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//tutorial
+[  78960499] Found new resource UnionGuards in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//UnionGuards
+[  78960515] Found new resource UnionWorkers in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//UnionWorkers
+[  78960515] Found new resource vMenu in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//vMenu
+[  78960530] Found new resource vSync in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//vSync
+[  78960530] Found new resource vVoice in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//vVoice
+[  78960546] Found new resource waitforload in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//waitforload
+[  78960546] Found new resource ZombieRP in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//ZombieRP
+[  78960561] Found new resource Zombies in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Zombies
+[  78960577] Found new resource Zombies - bak in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//Zombies - bak
+[  78960593] Found new resource ZSRMap in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//ZSRMap
+[  78960593] Found new resource ZSRProps in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//ZSRProps
+[  78960608] Found new resource race in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[gamemodes]/race
+[  78960608] Found new resource race-test in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[gamemodes]/race-test
+[  78960624] Found new resource channelfeed in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[gameplay]/channelfeed
+[  78960624] Found new resource irc in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[gameplay]/irc
+[  78960639] Found new resource obituary in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[gameplay]/obituary
+[  78960639] Found new resource obituary-deaths in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[gameplay]/obituary-deaths
+[  78960655] Found new resource playernames in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[gameplay]/playernames
+[  78960655] Found new resource mapmanager in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[managers]/mapmanager
+[  78960671] Found new resource baseevents in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[system]/baseevents
+[  78960686] Found new resource chat in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[system]/chat
+[  78960686] Found new resource hardcap in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[system]/hardcap
+[  78960702] Found new resource rconlog in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[system]/rconlog
+[  78960702] Found new resource scoreboard in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[system]/scoreboard
+[  78960717] Found new resource sessionmanager in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[system]/sessionmanager
+[  78960733] Found new resource spawnmanager in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[system]/spawnmanager
+[  78960733] Found new resource betaguns in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[test]/betaguns
+[  78960749] Found new resource gameInit in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[test]/gameInit
+[  78960749] Found new resource keks in C:/Users\Administrator\Desktop\FiveM-R408-Test/resources//[test]/keks
+[  78960795] Started resource sessionmanager
+[  78960811] Started resource mapmanager
+[  78960811] Started resource chat
+[  78960827] Started resource spawnmanager
+[  78960827] Started gametype Freeroam
+[  78960827] Started resource fivem
+[  78960842] Started resource hardcap
+[  78960842] Started resource rconlog
+[  78961388] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1630448665
+[  78961404] Instantiated instance of script MySQLAsync.MySQLAsync.
+[  78961451] Started resource mysql-async
+[  78961466] Started resource esplugin_mysql
+[  78961466] Started resource essentialmode
+[  78961513] Started resource es_admin2
+[  78961513] Started resource async
+[  78961529] Started resource baseevents
+[  78961544] Error loading script server/main.lua in resource es_extended: server/main.lua:605: attempt to call a nil value (field 'StartPayCheck')
+[  78961544] stack traceback:
+[  78961544] 	server/main.lua:605: in main chunk
+[  78961560] Failed to load script server/main.lua.
+[  78961591] Started resource es_extended
+[  78961607] Started resource instance
+[  78961607] Started resource esx_addonaccount
+[  78961622] Started resource esx_datastore
+[  78961638] Started resource esx_menu_default
+[  78961638] Started resource esx_menu_dialog
+[  78961653] Started resource esx_menu_list
+[  78961653] Started resource esx_society
+[  78961669] Started resource menu
+[  78961669] Started resource AFKSystem
+[  78961685] Started resource Ambience
+[  78961700] Started resource anticheat
+[  78961716] Started resource AutoRestartResource
+[  78961716] Started resource binoculars
+[  78961716] Started resource carspawns
+[  78961731] Started resource chatforadmin
+[  78961747] Started resource clothing
+[  78961747] Started resource coordsaver
+[  78961763] Started resource cratedrop
+[  78961763] Started resource crouch
+[  78961778] Started resource cuff-handsup
+[  78961778] Started resource NativeUI
+[  78961903] Started resource EasyAdmin
+[  78961903] Started resource EngineToggle
+[  78961919] Started resource entities
+[  78961919] Started resource environment
+[  78961919] Started resource fishing
+[  78961934] Started resource frfuel
+[  78961934] Started resource gtaoscoreboard
+[  78961934] Started resource guards
+[  78961950] Started resource hlabels
+[  78961965] Started resource Hordes
+[  78962433] Started resource hummer
+[  78962433] Started resource information
+[  78962449] Started resource lootercamps
+[  78962465] Started resource mapobjects
+[  78962465] Started resource marauders
+[  78966302] Started resource models
+[  78966318] Started resource mychangelog
+[  78966333] ^3Couldn't find resource NewLoot.^7
+[  78966333] Started resource NGFGuards
+[  78966349] Started resource randomdrop
+[  78966349] Started resource replyandreport
+[  78966365] Started resource RPChat
+[  78966365] Started resource RPRevive
+[  78966365] Started resource simpleinteractions
+[  78966380] Started resource smartweather
+[  78966973] Started resource sound
+[  78967067] Started resource synn-loadscreen
+[  78967067] Started resource survival
+[  78967082] Started resource Transportation
+[  78967145] Started resource tutorial
+[  78967145] Started resource UnionGuards
+[  78967160] Started resource UnionWorkers
+[  78967160] Started resource vSync
+[  78967176] Started resource vVoice
+[  78967191] Started resource Zombies
+[  78967207] Started map ZombieRP
+[  78967207] Started resource ZombieRP
+[  78967207] map ZombieRP
+[  78967207] Authenticating server license key...
+[  78967753] Server license key authentication succeeded. Welcome!
+[  78967815] Sending heartbeat to live-internal.fivem.net:30110
+[  78967815] 
+[  78967815] Current version: 5.0.1
+[  78967815] Updater version: 5.0.2
+[  78967815] 
+[  78967815] 
+[  78967815] Version mismatch, you are currently not using the newest stable version of essentialmode. Please update
+[  78967831] 
+[  78967831] [Universal Menu] Newer Version 2.4.2 is available!
+[  78967831] [Universal Menu] Version 2.4 loaded!
+[  78967971] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1630448665
+[  78968096] hitch warning: frame time of 281 milliseconds
+[  78968096] 
+[  78968096] --------------------------------------------------------------------------
+[  78968096] 
+[  78968112] EasyAdmin (EasyAdmin) is outdated.
+[  78968112] Current Version: 4.3
+[  78968112] Your Version: 4.21
+[  78968112] Please update it from https://github.com/Bluethefurry/EasyAdmin
+[  78968112] 
+[  78968112] Update Changelog:
+[  78968112] This Update fixes various bugs, adds new features and improves the UI, it is recommended you upgrade ASAP
+[  78968112] 
+[  78968112] --------------------------------------------------------------------------
+[  78968112] 
+[  78968112] 
+[  78968127] ##############
+[  78968127] ## EngineToggle
+[  78968127] ##
+[  78968127] ## Current Version: 2.3.0
+[  78968127] ## Newest Version: 2.3.0
+[  78968127] ##
+[  78968127] ## Up to date!
+[  78968127] ##############
+[  78968127] 
+[  78968127] 
+[  78968174] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1630448665
+[  78968330] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1630448665
+[  78968502] hitch warning: frame time of 407 milliseconds
+[  78969859] Stopping resource sessionmanager
+[  78969875] Started resource sessionmanager
+[  79147825] Sending heartbeat to live-internal.fivem.net:30110
+[  79327866] Sending heartbeat to live-internal.fivem.net:30110
+[  79507860] Sending heartbeat to live-internal.fivem.net:30110
+[  79561540] [SAVED] All players
+[  79570822] Updating Weather to SMOG for all players.
+[  79687900] Sending heartbeat to live-internal.fivem.net:30110
+[  79867848] Stopping resource lootercamps
+[  79867863] Started resource lootercamps
+[  79867957] Sending heartbeat to live-internal.fivem.net:30110
+[  79979810] Connecting: Gamer1
+[  79981011] Sending heartbeat to live-internal.fivem.net:30110
+[  80027577] loading data
+[  80027889] Error running call reference function for resource Zombies: citizen:/scripting/lua/scheduler.lua:351: loot/server.lua:93: attempt to index a nil value (field '?')
+[  80027889] stack traceback:
+[  80027889] 	loot/server.lua:93: in upvalue 'ref'
+[  80027889] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[  80027889] 	[C]: in function 'xpcall'
+[  80027889] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[  80027889] stack traceback:
+[  80027889] 	[C]: in function 'error'
+[  80027889] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[  80027905] [ERROR] [MySQL] Check the error above, an error happens when executing the callback from the query : "SELECT `bandages`, `cleanwater`, `cookedmeat`, `dirtywater`, `drinkitems`, `ducktape`, `emptybottles`, `enginekit`, `fooditems`, `gunpowder`, `rawmeat`, `scrapcloth`, `scrapmetal`, `woodlogs`, `woodmaterials`, `zblood`, `zcredits` FROM `crafting` WHERE identifier = @identifier {@identifier=steam:11000011412cfa2}"
+[  80029527] Syncing weather for: Gamer1
+[  80031976] An admin joined
+[  80031976] steam:11000011412cfa2
+[  80031992] loading data
+[  80031992] An admin joined
+[  80032101] Error running call reference function for resource Zombies: citizen:/scripting/lua/scheduler.lua:351: loot/server.lua:93: attempt to index a nil value (field '?')
+[  80032101] stack traceback:
+[  80032101] 	loot/server.lua:93: in upvalue 'ref'
+[  80032101] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[  80032101] 	[C]: in function 'xpcall'
+[  80032101] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[  80032101] stack traceback:
+[  80032101] 	[C]: in function 'error'
+[  80032101] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[  80032117] [ERROR] [MySQL] Check the error above, an error happens when executing the callback from the query : "SELECT `bandages`, `cleanwater`, `cookedmeat`, `dirtywater`, `drinkitems`, `ducktape`, `emptybottles`, `enginekit`, `fooditems`, `gunpowder`, `rawmeat`, `scrapcloth`, `scrapmetal`, `woodlogs`, `woodmaterials`, `zblood`, `zcredits` FROM `crafting` WHERE identifier = @identifier {@identifier=steam:11000011412cfa2}"
+[  80089619] saving data
+[  80149539] saving data
+[  80161020] Sending heartbeat to live-internal.fivem.net:30110
+[  80161925] [SAVED] Gamer1
+[  80161925] [SAVED] All players
+[  80173953] Updating Weather to FOGGY for all players.
+[  80209427] saving data
+[  80220925] Sending heartbeat to live-internal.fivem.net:30110
+[  80221221] Player dropped: Gamer1[SAVED] Gamer1
+[  80400950] Sending heartbeat to live-internal.fivem.net:30110
+[  80580991] Sending heartbeat to live-internal.fivem.net:30110
+[  80761016] Sending heartbeat to live-internal.fivem.net:30110
+[  80761624] [SAVED] All players
+[  80767849] Stopping resource carspawns
+[  80767849] Started resource carspawns
+[  80767895] Stopping resource lootercamps
+[  80767895] Started resource lootercamps
+[  80776928] Updating Weather to CLEAR for all players.
+[  80941025] Sending heartbeat to live-internal.fivem.net:30110
+[  81121035] Sending heartbeat to live-internal.fivem.net:30110
+[  81301091] Sending heartbeat to live-internal.fivem.net:30110

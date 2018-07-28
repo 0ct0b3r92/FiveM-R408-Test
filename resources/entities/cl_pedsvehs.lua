@@ -143,6 +143,7 @@ Citizen.CreateThread(function()
 			SetEntityInvincible(pedname, true)
 			SetEntityMaxSpeed(pedname, 0.00)
 			FreezeEntityPosition(pedname, true)
+			GiveWeaponToPed(pedname, GetHashKey(weapon), 9999, true, true)
 			
 			playerX, playerY, playerZ = table.unpack(GetEntityCoords(PlayerPedId(), true))
 			pedX, pedY, pedZ = table.unpack(GetEntityCoords(pedname, true))
